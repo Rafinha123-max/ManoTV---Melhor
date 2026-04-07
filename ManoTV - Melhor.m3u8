@@ -892,7 +892,7 @@ https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8
 ############################################################################ Canais | FILMES E SERIES
 
 #EXTINF:-1 tvg-id="SPACE HD" tvg-name="SPACE HD" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | FILMES E SERIES",SPACE HD
-https://cdn-5.nxplay.com.br/SPACE_TK/index.m3u8
+https://d1muf25xa04so8hp08.s27-usa-cloudfront-net.online/token/0fca7f377e402939bdea3ec3880ce242/space.txt
 
 #EXTINF:-1 tvg-id="SPACE HD" tvg-name="SPACE HD" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | FILMES E SERIES",SPACE HD²
 
@@ -907,10 +907,10 @@ https://cdn-5.nxplay.com.br/TNT_TK/index.m3u8
 https://d1muf25xa04so8hp08.s27-usa-cloudfront-net.online/token/d70a11e9f91bf526fe39d3137e3d7d8b/tntseries.txt
 
 #EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais | FILMES E SERIES",Warner Channel HD 
-http://79.127.238.228:14647/
+https://d1muf25xa04so8hp08.s27-usa-cloudfront-net.online/token/e45a0bedf7febcf2d3dbe09e500d4763/warnerchannel.txt
 
 #EXTINF:-1 tvg-id="WARNER CHANNEL HD" tvg-name="WARNER CHANNEL HD" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais | FILMES E SERIES",Warner Channel HD²
-
+http://79.127.238.228:14647/
 
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://imgur.com/EYAmbe4.png" group-title="Canais | FILMES E SERIES",A&E HD
 https://d1muf25xa04so8hp08.s27-usa-cloudfront-net.online/token/6b3b93833fb773fc59048122bf7ed81e/ae.txt
