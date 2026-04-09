@@ -33,7 +33,7 @@ http://s2.micineovs.com/GLOBO/index.m3u8?token=16FOTt9Ae2m8
 http://domainforxc.cfd:80/287945811/148063/2427
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo Minas HD
-https://d1muf25xa04so8hp08.s27-usa-cloudfront-net.online/token/22238ba7aaae8cb3958c9e0cadf659b4/globomg.txt
+https://xn--0410-w83clab0d1gj12a2cp4719hygknfo22o0ng378o8ciqm9b.cloudfront.lat/stream/embedtv/ef8b92b39596d9e0ec73963a1cb2e4cc/globomg.txt
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo Brasília FHD
 
@@ -139,7 +139,7 @@ https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
 https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Record São Paulo" tvg-name="Record São Paulo" tvg-logo="https://image2url.com/r2/default/images/1775511220976-ed182932-015d-43d7-a1df-46676c9e4d18.png" group-title="Canais | RECORD TV",RecordTV Minas HD
-https://d1muf25xa04so8hp07.s27-usa-cloudfront-net.online/token/d2d2a1fccbcb9e35d1aa165e0cb80d2e/recordmg.txt
+https://xn--0410-w83clab0d1gj12a2cp4719hygknfo22o0ng378o8ciqm9b.cloudfront.lat/stream/embedtv/3ef75e6d6e8eff4fb923edebb3990217/recordmg.txt
 
 #EXTINF:-1 tvg-id="Record São Paulo" tvg-name="Record São Paulo" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV RS HD
 
@@ -832,7 +832,7 @@ http://79.127.238.228:14455/
 
 
 #EXTINF:-1 tvg-id="TNT NOVELAS" tvg-name="TNT NOVELAS" tvg-logo="https://i.imgur.com/x9XvCqL.png" group-title="Canais | NOVELAS",TNT Novelas HD
-https://d1muf25xa04so8hp07.s27-usa-cloudfront-net.online/token/cf175f71080c558408cf772e7dd777b8/tntnovelas.txt
+https://xn--0410-w83clab0d1gj12a2cp4719hygknfo22o0ng378o8ciqm9b.cloudfront.lat/stream/embedtv/6774e92fecff41a16c8f3b5ee0067942/tntnovelas.txt
 
 #EXTINF:-1 tvg-id="TNT NOVELAS" tvg-name="TNT NOVELAS" tvg-logo="https://i.imgur.com/x9XvCqL.png" group-title="Canais | NOVELAS",TNT Novelas FHD
 
@@ -892,7 +892,7 @@ https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8
 ############################################################################ Canais | FILMES E SERIES
 
 #EXTINF:-1 tvg-id="SPACE HD" tvg-name="SPACE HD" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | FILMES E SERIES",SPACE HD
-https://d1muf25xa04so8hp08.s27-usa-cloudfront-net.online/token/0fca7f377e402939bdea3ec3880ce242/space.txt
+https://xn--0410-w83clab0d1gj12a2cp4719hygknfo22o0ng378o8ciqm9b.cloudfront.lat/stream/embedtv/94487cac69387af10bbe2d005e71161e/space.txt
 
 #EXTINF:-1 tvg-id="SPACE HD" tvg-name="SPACE HD" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | FILMES E SERIES",SPACE HD²
 
@@ -904,22 +904,22 @@ http://s2.micineovs.com/TNT/index.m3u8?token=16FOTt9Ae2m8
 https://cdn-5.nxplay.com.br/TNT_TK/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT SÉRIES" tvg-name="TNT SÉRIES" tvg-logo="https://imgur.com/vH2tkQt.png" group-title="Canais | FILMES E SERIES",TNT Séries HD
-https://d1muf25xa04so8hp08.s27-usa-cloudfront-net.online/token/d70a11e9f91bf526fe39d3137e3d7d8b/tntseries.txt
+https://xn--0410-w83clab0d1gj12a2cp4719hygknfo22o0ng378o8ciqm9b.cloudfront.lat/stream/embedtv/647958bc0b69ec5d240da1aad76261d3/tntseries.txt
 
-#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais | FILMES E SERIES",Warner Channel HD 
-https://d1muf25xa04so8hp08.s27-usa-cloudfront-net.online/token/e45a0bedf7febcf2d3dbe09e500d4763/warnerchannel.txt
+#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais | FILMES E SERIES",Warner Channel HD
+https://xn--0410-w83clab0d1gj12a2cp4719hygknfo22o0ng378o8ciqm9b.cloudfront.lat/stream/embedtv/5548f18379270f4f15884b3dc54ad890/warnerchannel.txt
 
 #EXTINF:-1 tvg-id="WARNER CHANNEL HD" tvg-name="WARNER CHANNEL HD" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais | FILMES E SERIES",Warner Channel HD²
 http://79.127.238.228:14647/
 
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://imgur.com/EYAmbe4.png" group-title="Canais | FILMES E SERIES",A&E HD
-https://d1muf25xa04so8hp08.s27-usa-cloudfront-net.online/token/6b3b93833fb773fc59048122bf7ed81e/ae.txt
+https://xn--0410-w83clab0d1gj12a2cp4719hygknfo22o0ng378o8ciqm9b.cloudfront.lat/stream/embedtv/5a7d606e8abeeaf96bc87ce3754f649d/ae.txt
 
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://imgur.com/EYAmbe4.png" group-title="Canais | FILMES E SERIES",A&E FHD
-https://d1muf25xa04so8hp08.s27-usa-cloudfront-net.online/token/6b3b93833fb773fc59048122bf7ed81e/ae.txt
+https://xn--0410-w83clab0d1gj12a2cp4719hygknfo22o0ng378o8ciqm9b.cloudfront.lat/stream/embedtv/5a7d606e8abeeaf96bc87ce3754f649d/ae.txt
 
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://imgur.com/IaxysZJ.png" group-title="Canais | FILMES E SERIES",AXN HD
-https://d1muf25xa04so8hp07.s27-usa-cloudfront-net.online/token/0cdc1f4f9da2586bed85a95e7184bf74/axn.txt
+https://xn--0410-w83clab0d1gj12a2cp4719hygknfo22o0ng378o8ciqm9b.cloudfront.lat/stream/embedtv/0cd264913099297643a4895952954d5f/axn.txt
 
 #EXTINF:-1 tvg-logo="https://imgur.com/bytVf9x.png" group-title="Canais | FILMES E SERIES",USA Network HD
 
@@ -949,7 +949,7 @@ https://d1muf25xa04so8hp07.s27-usa-cloudfront-net.online/token/8cb5c7b01a300fa72
 https://d1muf25xa04so8hp07.s27-usa-cloudfront-net.online/token/05489d4fb10fad0ca021652298dd2ded/telecinecult.txt
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eo6Js8D.png" group-title="Canais | FILMES E SERIES",Telecine Fun HD
-https://d1muf25xa04so8hp07.s27-usa-cloudfront-net.online/token/d272f7a17306e12e36e571bbedc3624f/telecinefun.txt
+https://xn--0410-w83clab0d1gj12a2cp4719hygknfo22o0ng378o8ciqm9b.cloudfront.lat/stream/embedtv/f5e957de785099b2072d025ae089b5ff/telecinefun.txt
 
 #EXTINF:-1 tvg-id="AMC BRASIL" tvg-name="AMC BRASIL" tvg-logo="https://imgur.com/2lr4rvX.png" group-title="Canais | FILMES E SERIES",AMC SD
 https://cdn-5.nxplay.com.br/AMC_BRASIL_TK/tracks-v2a1/mono.m3u8
@@ -958,10 +958,10 @@ https://cdn-5.nxplay.com.br/AMC_BRASIL_TK/tracks-v2a1/mono.m3u8
 https://cdn-5.nxplay.com.br/AMC_BRASIL_TK/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/18X62CK.png" group-title="Canais | FILMES E SERIES",Sony Channel HD
-https://cdn-5.nxplay.com.br/SONY_CHANNEL/index.m3u8
+https://xn--0410-w83clab0d1gj12a2cp4719hygknfo22o0ng378o8ciqm9b.cloudfront.lat/stream/embedtv/7e03fd105f1ca0e4e502b27c8b7c3fa1/sonychannel.txt
 
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://imgur.com/v3a4Afr.png" group-title="Canais | FILMES E SERIES",CINEMAX HD
-https://d1muf25xa04so8hp07.s27-usa-cloudfront-net.online/token/c43d5ebff7b5bc467008fc722cedad46/cinemax.txt
+https://xn--0410-w83clab0d1gj12a2cp4719hygknfo22o0ng378o8ciqm9b.cloudfront.lat/stream/embedtv/a3dc28e26a0a16066e5e7c94a94718a0/cinemax.txt
 
 #EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="https://imgur.com/H03jUu1.png" group-title="Canais | FILMES E SERIES",MEGAPIX HD
 http://s2.micineovs.com/MEGAPIX/index.m3u8?token=16FOTt9Ae2m8
@@ -988,10 +988,10 @@ http://domainforxc.cfd:80/287945811/148063/18777
 http://domainforxc.cfd:80/287945811/148063/18769
 
 #EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="https://imgur.com/mMLZhgP.png" group-title="Canais | FILMES E SERIES",Studio Universal HD
-https://d1muf25xa04so8hp08.s27-usa-cloudfront-net.online/token/631fa2a456a02488699f0e46400a161e/studiouniversal.txt
+https://xn--0410-w83clab0d1gj12a2cp4719hygknfo22o0ng378o8ciqm9b.cloudfront.lat/stream/embedtv/b1384c949b380ee6b6d89904402200f6/studiouniversal.txt
 
 #EXTINF:-1 tvg-logo="https://imgur.com/VwFjFMO.png" group-title="Canais | FILMES E SERIES",Universal Channel HD
-https://d1muf25xa04so8hp08.s27-usa-cloudfront-net.online/token/17059b8c8727daae0bf9f229e109a038/universaltv.txt
+https://xn--0410-w83clab0d1gj12a2cp4719hygknfo22o0ng378o8ciqm9b.cloudfront.lat/stream/embedtv/a0a35acd662521dfaa851ef421bb7e39/universaltv.txt
 
 #EXTINF:-1 tvg-logo="https://imgur.com/VwFjFMO.png" group-title="Canais | FILMES E SERIES",Universal Channel fHD
 
@@ -1093,7 +1093,7 @@ https://stmv1.srvif.com/jetsontv/jetsontv/chunklist.m3u8?ManoTV
 https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8?ManoTV
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qgyrEps.png" group-title="Canais | INFANTIL",GLOOB HD
-https://d1muf25xa04so8hp08.s27-usa-cloudfront-net.online/token/23a10c4611e781e9ff952a0c252b2a10/gloob.txt
+https://xn--0410-w83clab0d1gj12a2cp4719hygknfo22o0ng378o8ciqm9b.cloudfront.lat/stream/embedtv/8eff7488f3bcb2fbde8c4e9ea902a2f5/gloob.txt
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dO4krB3.png" group-title="Canais | INFANTIL",TV RA TIM BUM HD
 http://gerenciar.vivatele.com/viva_padrao/viva2384/15
@@ -1102,10 +1102,10 @@ http://gerenciar.vivatele.com/viva_padrao/viva2384/15
 http://domainforxc.cfd:80/287945811/148063/351
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/dlTmblr.png" group-title="Canais | INFANTIL",Cartoon Network HD
-https://d1muf25xa04so8hp07.s27-usa-cloudfront-net.online/token/18aaadeef1fee8344b8c7b4b002a20ea/cartoonnetwork.txt
+https://xn--0410-w83clab0d1gj12a2cp4719hygknfo22o0ng378o8ciqm9b.cloudfront.lat/stream/embedtv/1f60703778efe0799a7cd8de4ba0547a/cartoonnetwork.txt
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/OISSYsj.png" group-title="Canais | INFANTIL",TRU TV
-https://d1muf25xa04so8hp08.s27-usa-cloudfront-net.online/token/fc29383d549e4a8469956ef89dc6851d/adultswim.txt
+https://xn--0410-w83clab0d1gj12a2cp4719hygknfo22o0ng378o8ciqm9b.cloudfront.lat/stream/embedtv/adeec4c426fd93b8d7e8050f8e64fb43/adultswim.txt
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://image2url.com/r2/default/images/1775505452310-2fff7cd6-0d24-4f61-a909-f491cc2cefcf.png" group-title="Canais | INFANTIL",Nickelodeon Online
 https://x1co.com.br:8443/hls/0/stream.m3u8
@@ -1117,7 +1117,7 @@ https://sae12.playlist.ttvnw.net/v1/playlist/CoYHNwv5gZGj5qfkGt3RZ89V_WpBHPAAasS
 https://cdn-5.nxplay.com.br/TOONCAST_TK/index.m3u8
 
 #EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-logo="https://i.imgur.com/WxKCkhL.png" group-title="Canais | INFANTIL",DISCOVERY KIDS HD
-https://d1muf25xa04so8hp07.s27-usa-cloudfront-net.online/token/65abc2b2367c049e423605284cb12116/discoverykids.txt
+https://xn--0410-w83clab0d1gj12a2cp4719hygknfo22o0ng378o8ciqm9b.cloudfront.lat/stream/embedtv/e2df3bfd96fc88ced774f8b5d2466ad3/discoverykids.txt
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://image2url.com/r2/default/images/1775505452310-2fff7cd6-0d24-4f61-a909-f491cc2cefcf.png" group-title="Canais | INFANTIL",Nickelodeon Online Feed 3
 https://sae11.playlist.ttvnw.net/v1/playlist/Cq4HOAWh-tET0B7gPLlsYkfGxeO7TZK0zio8uoiyM8L0adHh_MZyy3jWcNC_xyliBSQcgX7_Ltb2fJ-Y32hYbN5QG3rE7pinxnYhO_2NYnDoEPz4asP219fnbQ87rHTaH-rQ8x0dZYGMg6rQ8msUXnC3iiWyV-4_jAd13SvBkPJ5mwbm_1yV5bkC2p3uFp5UH-FyDy-6dJMJdy2wxYiF7k-mNEPQhfoPJD_AdWjnKY4HYSx3DgRZvBXr7oBRshd_sAX80VglUuC5ZNpa0WLKyqlCNe-k4T6sUNd61Sqas6C1qvj8uxIvC9k-dzzG3_pUXg3Ab2x7SsZNPKgGetGxXNOlAoCE5d1R3C68PEeBiV-8otpleAZ2WVLVH7EbozRGKUHmqY2KZ7UvCFkj6e4KOlzUxNEYsEDyT_wFHs8eR5eSG5azdkHIb4SIssylUOSjsQCi3uf7cL3UJkYHLlRoHn92SkObhwpJ3uTotAzT9YkRbVkPjy7YdlkMBdk-eV6g4W_SbKRqVW8T_N5S9TkS1LoChjj8Ybwvf9FezWdc7llRwTDwD7WrTQp5UwOFBSko-OiJ__LV7HA9KAaw9H15FG97UUVB6c-kpDDgfvs1EzLQkfrx3F287BFW2RB5rDRzZJZ2zXjY3XeCoFYiH89c0PnPyAAXRUUcpFotf48bY1CzNWaxfJEmAYL8rq81zLGl-_1N6uBKHLsy9wW5kNUhbSe1I_fbTsBHknHHMd1rkvl1g4IBXblQrhNTbjqCvOQxe_N7_ORq4DMsXXb-rvekTw8uaA0Zuw25m58PKQQQ1FRFPyRfQg4BADrKUyKs1IbjA1eqYVGOpE2Ii09Mp8q6GXjDAw85nqzJii29guZqlMZZM0dgnCdrq6n49Ekm61277XM5mHW-pNBsEiGq46NFOO9ASXNSU0xsi6RVqmzI9UbJ1c4Q_9WCvfnjhkg0IPO5QGPNaii591OVrDIxEkMKTIAsH9feGvy6H9wqchkR4HdKGr94dna-uEzcu4tHtOgDlXz8qE5o2nO0q4JQniNCACNwGseMhg3w9E31l-sRLBdhj8Ik7LzJCFuet-ODQRonG5JnyaJiBwscOuBT03U6-er1SuC5zfIWvPOiM_-dyUoPJyxbtaEZRtbtq04MSmFHXr_jMtcRNBypi7mSOEyl8jr3WH_RmYh6lqWGCv2phLaNSjxJIgefiTev0tSxA_F48Oz43Vfang9Zp-oBjK_A2G23DLwzASRyeEsIlU41vIApGgzkjx4B1yBQ77d-IEIgASoJdXMtZWFzdC0yMOsO.m3u8
@@ -1160,8 +1160,7 @@ https://dfr80qz435crc.cloudfront.net/ABCD/Amagi/Banijay/Mr_Bean_BR/Mr_Bean.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/9lWh5bb.png" group-title="Canais | INFANTIL",ADULT SWIM HD
-https://d1muf25xa04so8hp08.s27-usa-cloudfront-net.online/token/fc29383d549e4a8469956ef89dc6851d/adultswim.txt
-
+https://xn--0410-w83clab0d1gj12a2cp4719hygknfo22o0ng378o8ciqm9b.cloudfront.lat/stream/embedtv/adeec4c426fd93b8d7e8050f8e64fb43/adultswim.txt
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1JVrZFk.png" group-title="Canais | INFANTIL",Ministério Infantil TV
 http://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
