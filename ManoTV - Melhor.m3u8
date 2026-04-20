@@ -682,9 +682,8 @@ https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist.m3u8
 https://xn--d1ma04s8hp17.cloudfronte.lat/zzstream/multishow.m3u8
 
 #EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW" tvg-logo="https://i.imgur.com/a4lEiwk.png" group-title="Canais | VARIEDADES",Multishow FHD
-https://d1muf25xa04so8hp07.s27-usa-cloudfront-net.online/token/8451db6fa3e2ec27822fb7236b1e592a/multishow.txt
- 
 
+ 
 #EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="https://i.imgur.com/jvvmyCv.png" group-title="Canais | VARIEDADES",BIS HD
 
 
@@ -1118,7 +1117,7 @@ https://cdn-5.nxplay.com.br/TOONCAST_TK/index.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-logo="https://i.imgur.com/WxKCkhL.png" group-title="Canais | INFANTIL",DISCOVERY KIDS HD
 https://cdn-5.nxplay.com.br/DISCOVERY_KIDS_NX/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.sanishtech.com/u/9f3bc685c8c968e6e03cc891f1508505.png" group-title="Canais | INFANTIL",Nickast (Canal Bob Esponja)
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.sanishtech.com/u/96eedb1e4f282c1d29ab6c5b8d214dd5.png" group-title="Canais | INFANTIL",NickOnline - Canal Bob Esponja
 https://x1co.com.br:2083/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://nxplay-images.comets.com.br/resize/65ba3aa6b33fa_e87fab2ab503a0032691e607098fb9e8.png" group-title="Canais | INFANTIL",Léo e Lully
