@@ -1101,16 +1101,16 @@ http://gerenciar.vivatele.com/viva_padrao/viva2384/15
 http://domainforxc.cfd:80/287945811/148063/351
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/dlTmblr.png" group-title="Canais | INFANTIL",Cartoon Network HD
-http://domainforxc.cfd:80/287945811/148063/21230
+https://xnn--d2ma04s8hp21.cloudfronte.lat/zzstream/cartoonnetwork.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/OISSYsj.png" group-title="Canais | INFANTIL",TRU TV
 https://d1muf25xa04so8hp08.s27-usa-cloudfront-net.online/token/fc29383d549e4a8469956ef89dc6851d/adultswim.txt
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image2url.com/r2/default/images/1775505452310-2fff7cd6-0d24-4f61-a909-f491cc2cefcf.png" group-title="Canais | INFANTIL",Nickelodeon Online
+#EXTINF:-1 tvg-id="" tvg-logo="https://image2url.com/r2/default/images/1775505452310-2fff7cd6-0d24-4f61-a909-f491cc2cefcf.png" group-title="Canais | INFANTIL",Nickelodeon Online HD
 https://x1co.com.br:8443/hls/0/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/05E0q6L.png" group-title="Canais | INFANTIL",TV Gallo
-https://5c483b9d1019c.streamlock.net/8202/8202/playlist-480p.m3u8
+#EXTINF:-1 tvg-logo="https://img.sanishtech.com/u/8608e082923062695f0ef4acd6da73f6.png" group-title="Canais | INFANTIL",Nickelodeon Online SD
+tcp://noproxy.x1co.com.br:9000
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TRu90uI.png" group-title="Canais | INFANTIL",Tooncast HD
 https://cdn-5.nxplay.com.br/TOONCAST_TK/index.m3u8
@@ -1118,7 +1118,7 @@ https://cdn-5.nxplay.com.br/TOONCAST_TK/index.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-logo="https://i.imgur.com/WxKCkhL.png" group-title="Canais | INFANTIL",DISCOVERY KIDS HD
 https://cdn-5.nxplay.com.br/DISCOVERY_KIDS_NX/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.sanishtech.com/u/9384c2e58d3e3c62e6266f8baf502103.png" group-title="Canais | INFANTIL",Nickast
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.sanishtech.com/u/9f3bc685c8c968e6e03cc891f1508505.png" group-title="Canais | INFANTIL",Nickast (Canal Bob Esponja)
 https://x1co.com.br:2083/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://nxplay-images.comets.com.br/resize/65ba3aa6b33fa_e87fab2ab503a0032691e607098fb9e8.png" group-title="Canais | INFANTIL",Léo e Lully
@@ -1154,7 +1154,6 @@ https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/DPA_Fast_BR/DPA_Fast.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eu93gIQ.png " group-title="Canais | INFANTIL",Mr Bean Animated
 https://dfr80qz435crc.cloudfront.net/ABCD/Amagi/Banijay/Mr_Bean_BR/Mr_Bean.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NQG19uf.png" group-title="Canais | INFANTIL",DCPC Infantil 
 
