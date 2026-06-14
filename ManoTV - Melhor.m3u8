@@ -1,47 +1,400 @@
-http://lista.iptvglobal.com.br
-​http://epg.iptvglobal.com.br
-​http://logos.iptvglobal.com.br
+#EXTM3U 
 
-​Dirección de la lista de canales:
+​#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Globo RJ
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/363.m3u8
 
-​Lista IPTV Brasil (Actualizada Funcional)
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Globo RJ HD
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/311.m3u8
 
-​LISTA: http://j.mp/Listaiptvbrasil
-​EPG: http://j.mp/Epgiptvbrasil
-​LOGOS: http://douglasduffor.com.br
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Globo RJ HEVC
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/422.m3u8
 
-​Lista IPTV Brasil EXCLUSIVA +1000 Filmes (NOVA)
-​LISTA: http://j.mp/IPTVBrasilFilmes
-​Lista de Peliculas (Joaldo Barros)
-​http://bit.ly/CinemaIPTV
-​Lista de Series (Patrick Machado)
-​bit.ly/OnSerieS
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Globo SP
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/223.m3u8
 
-​Lista de Jonas
-​LISTA: http://lista.iptvglobal.com.br
-​EPG: http://epg.iptvglobal.com.br
-​LOGOS: http://logos.iptvglobal.com.br
-​
-Lista de Igor
-​LISTA: http://j.mp/igorlista
-​EPG: http://bit.ly/igorepg
-​LOGOS: http://logos3.ucoz.com
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Globo Recife
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/443.m3u8
 
-​Lista Brasil IPTV
-​LISTA: http://bit.ly/BRASILIPTV
-​EPG: http://bit.ly/EPGBRASILIPTV
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Globo Rede Bahia
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/440.m3u8
 
-​Lista IPTVBR
-​Lista: https://lista.iptvbr.org
-​EPG: https://epg.iptvbr.org
-​Logos: https://logos.iptvbr.org
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Globo Rede Amazônica
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/444.m3u8
 
-​Lista Sport Internacional
-​Lista: http://bit.ly/hushamallsports
-​EPG: http://bit.ly/hushamusatv
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Globo EPTV Campinas
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/441.m3u8
 
-​Lista do Anderson
-​Lista: http://zip.net/bqqSqK
-​EPG: http://bit.ly/GuiaUPeDown
-​
-​Logos: http://anderson.clubeon.in/png/
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Globo EPTV R. Preto
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/442.m3u8
+
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Globo TV Tem Bauru
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/445.m3u8
+
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Globo TV Tem SJRP
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/446.m3u8
+
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Globo TV Tem Sorocaba
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/447.m3u8
+
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Globo TV Verdes mares
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/448.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Globo TV Liberal
+http://165.227.34.24/loadbalance/tvliberalbelem/playlist.m3u8?pxAuth=bsqVS1RNlc3bYS0AkrLIrxhI6UVc87AG
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Record
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/191.m3u8
+
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Record HD
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/290.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Rede TV!
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/190.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Rede TV! HD
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/289.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",SBT
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/189.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",SBT HD
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/288.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",SBT HEVC
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/405.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Band
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/165.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Band HD
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/334.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",J-Sat
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/163.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Terra viva
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/460.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",GloboSat
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/162.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",GloboSat HD
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/383.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Globo News
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/222.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Globo News HD
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/386.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Record News
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/192.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Band News
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/251.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",TV Futura
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/225.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",GNT
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/220.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",GNT HD
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/310.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",GNT HEVC
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/421.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Viva
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/169.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Viva - HD
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/274.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Viva HEVC
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/395.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Fox Premium HD
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/318.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Fox Premium HEVC
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/428.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Fox - HD
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/316.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Fox
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/229.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Fox Premium 2 HD
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/317.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Fox Life - HD
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/315.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Fox Life
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/228.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",AXN
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/252.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",AXN HD
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/335.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",AXN HD HEVC
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/438.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",FX
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/224.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",FX HD
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/312.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",FX HEVC
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/423.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Paramount Channel
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/203.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Paramount HD
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/296.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Paramount HEVC
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/410.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Universal Channel
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/170.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Universal Channel HD
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/275.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Universal Channel HEVC
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/396.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Studio Universal
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/182.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Studio Universal HD
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/377.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",TNT
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/171.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",TNT HD
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/277.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",TNT HEVC
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/398.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",TNT Séries
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/158.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",TNT Séries HD
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/276.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",TNT Séries HEVC
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/397.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Telecine Premium
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/175.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Telecine Premium HD
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/279.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Telecine Premium HEVC
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/400.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Telecine Pipoca
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/178.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Telecine Pipoca HD
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/280.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Telecine Pipoca HEVC
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/401.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Telecine Action
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/179.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Telecine Action HD
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/282.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Telecine Action HEVC
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/402.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Telecine Touch
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/174.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Telecine Touch HD
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/278.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Telecine Touch HEVC
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/399.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Telecine Fun HD
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/281.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Telecine Fun
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/177.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Telecine Cult
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/178.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Telecine Cult HD
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/375.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",TLC
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/172.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",TLC HD
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/374.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",TCM
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/180.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Sony HD
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/331.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Sony
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/247.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Space HD
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/287.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Space
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/186.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Megapix
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/210.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Megapix HD
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/301.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Megapix HEVC
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/413.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Cinemax
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/245.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Cinemax HD
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/391.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",H2
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/219.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",H2 HD
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/309.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",History 2 HEVC
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/415.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",HBO
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/218.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",HBO HD
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/306.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",HBO HEVC
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/419.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",HBO 2
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/214.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",HBO 2 HD
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/308.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",HBO2 HEVC
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/416.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",HBO Plus
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/216.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",HBO Plus HD
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/305.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",HBO Plus HEVC
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/418.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",HBO Plus e
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/343.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",HBO Family
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/217.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",HBO Family HD
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/307.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",HBO Family HEVC
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/420.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",HBO Signature
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/215.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",HBO Signature HD
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/304.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",HBO Signature HEVC
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/417.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Warner Channel
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/168.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Warner HEVC
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/394.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Prime Box Brazil
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/369.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",TBS
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/181.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",TBS HD
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/283.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",TBS HEVC
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/403.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Max
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/161.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Max - HD
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/382.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Max Up
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/211.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Max UP HD
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/380.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Max Prime
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/212.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Max Prime HD
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/381.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Max Prime e -
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/346.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Boomerang
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/248.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Discovery Kids
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/240.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Disney Channel
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/237.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Disney Channel HD
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/389.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Disney Junior
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/236.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Disney XD
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/235.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Gloob
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/221.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Gloob HD
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/385.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Nick Jr.
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/206.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Nick
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/205.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Nick HD
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/378.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Tooncast
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/157.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Cartoon Network HD
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/371.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Cartoon Network
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/246.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",History Channel HD
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/303.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",History Channel
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/173.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Comedy Central
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/269.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",NatGeo Wild
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/347.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",NatGeo Wild HD
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/299.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",National Geographic HD
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/298.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",National Geographic
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/207.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",NatGeo HEVC
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/411.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Animal Planet
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/253.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Animal Planet HD
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/336.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Animal Planet HEVC
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/439.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",BIS HD
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/332.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",A&E
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/254.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",A&E HD
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/393.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Sic Internacional
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/155.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Fish TV
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/164.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Discovery Kids HD
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/390.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Discovery
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/243.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Discovery Channel HD
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/329.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Discovery Channel HEVC
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/436.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Discovery ID
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/213.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",ID - Investigação Discovery HD
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/302.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",ID - Investigação Discovery HEVC
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/414.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Discovery Turbo
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/238.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Discovery Turbo HD
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/326.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Discovery Turbo HEVC
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/433.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Discovery Theater HD
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/327.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Discovery Theater HEVC
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/434.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Discovery World HD
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/325.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Discovery World HEVC
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/432.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Discovery Science
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/239.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Discovery Civilization
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/242.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Discovery Home & Health
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/241.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Discovery Home & Health HD
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/328.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Discovery H&H HEVC
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/435.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Off - HD
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/297.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Play TV
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/351.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Off
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/204.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Band Sports
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/250.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Band Sports HD
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/333.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Band Sports HEVC
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/437.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",ESPN HD
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/322.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",ESPN
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/231.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",ESPN+ HD
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/320.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",ESPN+
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/166.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",ESPN + HEVC
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/428.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",ESPN Brasil
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/230.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",ESPN Brasil HD
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/321.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",ESPN Brasil HEVC
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/429.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Esporte Interativo HD
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/319.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Esporte Interativo HEVC
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/427.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Fox Sport HD
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/314.m3u8
+#EXTINF:-1 group-title="BRASIL (OPÇÕES)",Fox Sports
+http://www.iptvip.com:25461/live/marcel_bother/jf5kbxKwpl/227.m3u8
+
