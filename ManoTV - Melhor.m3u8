@@ -237,8 +237,8 @@ http://gerenciar.vivatele.com:80/viva_padrao/viva2384/21.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LnApLKd.png" group-title="Canais | SBT",SBT NEWS
 https://amg00527-amg00527c5-amgplt0026.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg00527-amg00527c5-amgplt0026/playlist.m3u8?ads.devicemodel=[DEVICE_MODEL]&ads.gdprconsent=[GDPR_CONSENT]&ads.ua=[UA]&ads.appname=[APP_NAME]&ads.appstoreurl=[APP_STOREURL]&ads.devicemake=[DEVICE_MAKE]&ads.devicetype=[DEVICE_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ip=[IP]&ads.targetad=[TARGETAD_ALLOWED]&ads.usprivacy=[US_PRIVACY]&ads.appversion=[APP_VERSION]&ads.country=[COUNTRY]&ads.deviceid=[DEVICE_ID]&ads.gdpr=[GDPR]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.bundleid=[APP_BUNDLE]&coppa=0&ads.url=[URL]&ads.iu=[IU]&ads.idtype=[IDTYPE]&ads.lmt=[LMT]&ads.content_livestream=[CONTENT_LIVESTREAM]&ads.gpp=[GPP]&ads.channel_name=[CHANNEL_NAME]&ads.network_name=[NETWORK_NAME]&ads.gpp_sid=[GPP_SID]&ads.prodq=[PRODQ]&ads.inv_partner_domain=[INV_PARTNER_DOMAIN]&ads.schain=[SCHAIN]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 
-#EXTINF:-1 tvg-id="SBT São Paulo" tvg-name="SBT São Paulo" tvg-logo="https://i.imgur.com/g47oQ4n.png" group-title="Canais | SBT",+SBT HD
-https://cr7v.short.gy/25mensais/s2/Whats7591634025.m3u8
+#EXTINF:-1 tvg-id="SBT São Paulo" tvg-name="SBT São Paulo" tvg-logo="https://i.imgur.com/g47oQ4n.png" group-title="Canais | SBT",SBT HD - Rede 2
+http://s2.micineovs.com/SBT/index.m3u8?token=16FOTt9Ae2m8
 
 #EXTINF:-1 tvg-id="SBT São Paulo" tvg-name="SBT São Paulo" tvg-logo="https://i.imgur.com/KO1v3pS.png" group-title="Canais | SBT",SBT Interior
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
