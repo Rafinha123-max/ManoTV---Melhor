@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epgontvhdbr.com/,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/br.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/claro.xml,https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz,https://i.mjh.nz/PlutoTV/br.xml,https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/EPG/epg-rytec-pt.xml.xz,https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/EPG/epg-pt.xml.gz,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/globo-internacional.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/epg.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/vivoplay.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/globo.xml"
+#EXTM3U url-tvg="https://x1colegal.com/epg/,http://epgontvhdbr.com/,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/br.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/claro.xml,https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz,https://i.mjh.nz/PlutoTV/br.xml,https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/EPG/epg-rytec-pt.xml.xz,https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/EPG/epg-pt.xml.gz,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/globo-internacional.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/epg.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/vivoplay.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/globo.xml"
 
 ############################################################################ Informações 
 
@@ -1208,7 +1208,7 @@ https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/DPA_Fast_BR/DPA_Fast.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eu93gIQ.png " group-title="Canais | INFANTIL",Mr Bean Animated
 https://dfr80qz435crc.cloudfront.net/ABCD/Amagi/Banijay/Mr_Bean_BR/Mr_Bean.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/IG9M7hu.png" group-title="Canais | INFANTIL",Nickelodeon Online
+#EXTINF:-1 tvg-logo="https://imgur.com/IG9M7hu.png" group-title="Canais | INFANTIL",NickOnline
 https://x1colegal.com/hls/stream.m3u8
 https://x1colegal.com/epg/
 
