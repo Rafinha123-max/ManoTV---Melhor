@@ -13,8 +13,8 @@ http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1859.ts
 http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1857.ts
 #EXTINF:-1 tvg-id="" tvg-name="Band Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BandSports_logo.svg/2000px-BandSports_logo.svg.png" group-title="Esportes",Band Sports HD
 http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1856.ts
-#EXTINF:-1 tvg-id="" tvg-name="Bandeirantes" tvg-logo="http://www.endocrinologia.com.br/2015/img/vd/band_mg.png" group-title="Canais Abertos",Band HD
-http://64.31.23.207:80/59471019/60849037/324357.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bandeirantes" tvg-logo="http://www.endocrinologia.com.br/2015/img/vd/band_mg.png" group-title="Canais Abertos",Band Minas HD
+http://64.31.23.207:80/59471019/60849037/324359.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BIS" tvg-logo="http://s2.glbimg.com/ymTn9IE0rr_YJHRPbzwhmyCSdFk=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/d7/69/8ca415a17b57bdc9dff88a951e82.png" group-title="Entretenimento",BIS HD
 http://64.31.23.207:80/59471019/60849037/518551.m3u8
 #EXTINF:-1 tvg-id="Boomerang [Brazil]" tvg-name="Boomerang" tvg-logo="http://www.clipartbest.com/cliparts/niE/En4/niEEn4a6T.png" group-title="Infantis",Boomerang HD
@@ -66,7 +66,7 @@ http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1828.ts
 #EXTINF:-1 tvg-id="" tvg-name="ESPN Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Logo_espnbrasil.png/640px-Logo_espnbrasil.png" group-title="Esportes",ESPN Brasil
 http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1866.ts
 #EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="http://vignette2.wikia.nocookie.net/clubpenguin/images/9/9b/Logo_ESPN.png/revision/latest?cb=20140622175252" group-title="Esportes",ESPN HD
-http://181.78.197.59:8000/play/a07z/index.m3u8
+http://64.31.23.207:80/59471019/60849037/3460183.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fish TV" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/fishtv.png" group-title="Variedades",Fish TV HD
 http://45.162.64.114/FISH_TV/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/500px-Food_Network_Logo.svg.png" group-title="Variedades",Food Network HD
@@ -109,9 +109,9 @@ http://64.31.23.207:80/59471019/60849037/514107.m3u8
 http://64.31.23.207:80/59471019/60849037/514110.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="I-SAT" tvg-logo="http://www.lamac.org/res/channels/logos/_0008_isat.png" group-title="Series",I-SAT
 http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1796.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID - Investigacao Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/8/86/20120708204205!Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png" group-title="Series",ID - Investigacao Discovery HD
+#EXTINF:-1 tvg-id="" tvg-name="ID - Investigacao Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/8/86/20120708204205!Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png" group-title="Series",ID - Investigação Discovery HD
 http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1795.ts
-#EXTINF:-1 tvg-id="" tvg-name="Ideal TV" tvg-logo="http://vignette2.wikia.nocookie.net/tvpediabrasil/images/5/56/Ideal_TV.png/revision/latest?cb=20150219221719&path-prefix=pt-br" group-title="Canais Abertos",Xsports HD
+#EXTINF:-1 tvg-id="" tvg-name="Ideal TV" tvg-logo="http://vignette2.wikia.nocookie.net/tvpediabrasil/images/5/56/Ideal_TV.png/revision/latest?cb=20150219221719&path-prefix=pt-br" group-title="Canais Abertos",Ideal TV
 http://64.31.23.207:80/59471019/60849037/3460175.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-logo="http://vignette1.wikia.nocookie.net/deviousmaids/images/b/bc/Lifetime_Logo.png/revision/latest?cb=20140216020400" group-title="Series",Lifetime HD
 http://64.31.23.207:80/59471019/60849037/518571.m3u8
@@ -123,7 +123,7 @@ http://64.31.23.207:80/59471019/60849037/3460224.m3u8
 http://64.31.23.207:80/59471019/60849037/514128.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MAX UP" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/maxup.png" group-title="Canais HBO",MAX UP
 http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1788.ts
-#EXTINF:-1 tvg-id="" tvg-name="MAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Max_logo.png" group-title="Canais HBO",HBO Pop HD
+#EXTINF:-1 tvg-id="" tvg-name="MAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Max_logo.png" group-title="Canais HBO",HBO POP HD
 http://64.31.23.207:80/59471019/60849037/514122.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MegaPix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Megapix_logo_2011.png" group-title="Filmes",MEGAPIX HD
 http://64.31.23.207:80/59471019/60849037/324451.m3u8
@@ -151,7 +151,7 @@ http://45.162.64.114/NOVO_TEMPO/index.m3u8
 http://64.31.23.207:80/59471019/60849037/518583.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Paramount" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/d/d9/Paramount_1988_Communications.png/revision/latest?cb=20121103012803" group-title="Filmes",Paramount
 http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1774.ts
-#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes" tvg-logo="http://www.vendasclaro.com.br/blog/wp-content/uploads/2015/07/PremiereFC-na-claro-tv.png" group-title="Esportes",Premiere Clubes
+#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes" tvg-logo="http://www.vendasclaro.com.br/blog/wp-content/uploads/2015/07/PremiereFC-na-claro-tv.png" group-title="Esportes",Premiere Clubes HD
 http://64.31.23.207:80/59471019/60849037/324401.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 2" tvg-logo="http://www.vendasclaro.com.br/blog/wp-content/uploads/2015/07/PremiereFC-na-claro-tv.png" group-title="Esportes",Premiere 2
 http://64.31.23.207:80/59471019/60849037/3460212.m3u8
@@ -242,7 +242,7 @@ http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1706.ts
 #EXTINF:-1 tvg-id="" tvg-name="Viva" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/e/ef/Canal_viva_logo_.png/revision/latest?cb=20140519221640" group-title="Canais Globosat",Globoplay Novelas HD
 http://64.31.23.207:80/59471019/60849037/324400.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Warner Channel" tvg-logo="http://www.lamac.org/res/channels/logos/_0000_warner.png" group-title="Series",Warner Channel HD
-http://64.31.23.207:80/59471019/60849037/324511.m3u8
+http://64.31.23.207:80/59471019/60849037/324513.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Euronews France (FR)" tvg-logo="" group-title="",Euronews France (FR)
