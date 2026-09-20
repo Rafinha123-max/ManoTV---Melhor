@@ -13,7 +13,7 @@ http://45.177.114.115/ARTE1/index.m3u8
 http://170.83.16.50/AXN/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Band Alternativo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/1277px-Rede_Bandeirantes_logo_2011.svg.png" group-title="Variedades",Band Alternativo
 https://media.cdntvms.com.br/band_sat/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Band News" tvg-logo="http://static.feirasenegocios.com.br/static/images/LOGO_BANDNEWS.png" group-title="Esportes",Band News HD
+#EXTINF:-1 tvg-id="" tvg-name="Band News" tvg-logo="http://static.feirasenegocios.com.br/static/images/LOGO_BANDNEWS.png" group-title="Notícias",Band News HD
 http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1857.ts
 #EXTINF:-1 tvg-id="" tvg-name="Band Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BandSports_logo.svg/2000px-BandSports_logo.svg.png" group-title="Esportes",Band Sports HD
 http://64.31.23.207:80/59471019/60849037/3460152.m3u8
@@ -56,11 +56,11 @@ http://64.31.23.207:80/59471019/60849037/297951.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="Documentarios",Discovery Turbo
 http://64.31.23.207:80/59471019/60849037/297942.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/Disney_Junior_Logo.png" group-title="Infantis",Disney Junior
-http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1831.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png" group-title="Infantis",Disney XD
-http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1830.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="Disney" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/d/dd/Disney_Logo.png" group-title="Infantis",Disney
-http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1832.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E!_Logo_2012.svg/1000px-E!_Logo_2012.svg.png" group-title="Variedades",E!
 http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1829.ts
 #EXTINF:-1 tvg-id="" tvg-name="EI Maxx 2" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/c/cc/EI_Maxx_2.png/revision/20160125133416" group-title="Esportes",EI Maxx 2
@@ -181,7 +181,7 @@ http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1756.ts
 http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1755.ts
 #EXTINF:-1 tvg-id="" tvg-name="Record News" tvg-logo="http://vignette3.wikia.nocookie.net/telepedia/images/0/05/Record_News.png/revision/latest?cb=20120229133037&path-prefix=pt-br" group-title="Canais Abertos",Record News HD
 http://64.31.23.207:80/59471019/60849037/3459563.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RECORDTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/1/14/20161125125344!Logo_of_Rede_Record.png" group-title="Canais Abertos",Record HD
+#EXTINF:-1 tvg-id="" tvg-name="RECORDTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/1/14/20161125125344!Logo_of_Rede_Record.png" group-title="Canais Abertos",Record
 https://media.cdntvms.com.br/record_nacional_sat/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rede Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/37/Logo_Rede_Brasil.png" group-title="Canais Abertos",Rede Brasil HD
 https://redebrasil.nuvemplay.live/hls/stream.m3u8
@@ -209,8 +209,8 @@ http://64.31.23.207:80/59471019/60849037/324391.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Studio Universal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/2000px-Logo_Studio_Universal.svg.png" group-title="Filmes",Studio Universal HD
 http://64.31.23.207:80/59471019/60849037/324392.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Syfy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png" group-title="Series",USA Network HD
-http://64.31.23.207:80/59471019/60849037/324505.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Syfy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png" group-title="Series",USA Network
+http://64.31.23.207:80/59471019/60849037/324507.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tbsb.png" group-title="Series",TNT Novelas HD
 http://64.31.23.207:80/59471019/60849037/324485.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="http://vignette4.wikia.nocookie.net/world-of-media/images/c/c0/TCM_logo.png/revision/latest?cb=20140103150834" group-title="Filmes",TCM
@@ -226,7 +226,7 @@ http://64.31.23.207:80/59471019/60849037/324332.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telecine Premium" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tcpremiumb.png" group-title="Canais Telecine",Telecine Premium
 http://64.31.23.207:80/59471019/60849037/324338.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telecine Touch" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tctouchb.png" group-title="Canais Telecine",Telecine Touch
-http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1720.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="Terra Viva" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Terra_Viva_logo.svg/2000px-Terra_Viva_logo.svg.png" group-title="Variedades",Terra Viva HD
 http://64.31.23.207:80/59471019/60849037/3459589.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="The History Channel" tvg-logo="http://vignette1.wikia.nocookie.net/indianajones/images/e/e3/History_channel_logo.png/revision/latest?cb=20100624030706" group-title="Documentarios",History HD
