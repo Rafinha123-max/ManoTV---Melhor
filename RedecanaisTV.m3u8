@@ -185,7 +185,7 @@ http://64.31.23.207:80/59471019/60849037/3459563.m3u8
 https://media.cdntvms.com.br/record_nacional_sat/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rede Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/37/Logo_Rede_Brasil.png" group-title="Canais Abertos",Rede Brasil HD
 https://redebrasil.nuvemplay.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rede TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV!.png" group-title="Canais Abertos",Rede TV HD
+#EXTINF:-1 tvg-id="" tvg-name="Rede TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV!.png" group-title="Canais Abertos",RedeTV! HD
 http://45.162.64.114/REDE_TV/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rede Vida" tvg-logo="http://static.redevida.com.br/img/redevida-logo.png" group-title="Canais Abertos",Rede Vida HD
 http://64.31.23.207:80/59471019/60849037/3459546.m3u8
