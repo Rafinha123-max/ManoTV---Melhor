@@ -5,7 +5,7 @@
 http://64.31.23.207:80/59471019/60849037/3460155.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/2000px-Animal_Planet_logo.svg.png" group-title="Documentarios",Animal Planet HD
 http://64.31.23.207:80/59471019/60849037/296619.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Aparecida" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tvaparecida.png" group-title="Canais Abertos",Aparecida HD
+#EXTINF:-1 tvg-id="" tvg-name="Aparecida" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tvaparecida.png" group-title="Canais Abertos",TV Aparecida
 http://45.177.114.115/TV_APARECIDA_HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Arte 1" tvg-logo="http://skyassinar.com.br/images/canais/244_5420BDCBD5F4097B.png" group-title="Variedades",Arte 1 HD
 http://45.177.114.115/ARTE1/index.m3u8
@@ -68,7 +68,7 @@ http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1827.ts
 #EXTINF:-1 tvg-id="" tvg-name="EI Maxx" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/eimaxxb.png" group-title="Esportes",EI Maxx
 http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1828.ts
 #EXTINF:-1 tvg-id="" tvg-name="ESPN Brasil" tvg-logo="https://img.faz-o-eli.online/espn4.png" group-title="Esportes",ESPN 4 HD
-http://64.31.23.207:80/59471019/60849037/3460193.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="http://vignette2.wikia.nocookie.net/clubpenguin/images/9/9b/Logo_ESPN.png/revision/latest?cb=20140622175252" group-title="Esportes",ESPN HD
 http://64.31.23.207:80/59471019/60849037/3460183.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fish TV" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/fishtv.png" group-title="Variedades",Fish TV HD
@@ -141,8 +141,8 @@ http://168.197.104.22/MUSIC/index.m3u8
 http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1783.ts
 #EXTINF:-1 tvg-id="" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/2000px-National-Geographic-Logo.svg.png" group-title="Documentarios",National Geographic
 http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1782.ts
-#EXTINF:-1 tvg-id="" tvg-name="NBR" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/nbr.png" group-title="Canais Abertos",NBR
-http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1780.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBR" tvg-logo="https://img.faz-o-eli.online/tvbrasil.png" group-title="Canais Abertos",TV Brasil HD
+https://tvbrasil-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NHK" tvg-logo="http://logonoid.com/images/nhk-logo.png" group-title="Variedades",NHK
 http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1779.ts
 #EXTINF:-1 tvg-id="" tvg-name="Nick Jr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2000px-Nick_Jr._logo_2009.svg.png" group-title="Infantis",Nick Jr
@@ -185,16 +185,16 @@ http://64.31.23.207:80/59471019/60849037/3459563.m3u8
 https://media.cdntvms.com.br/record_nacional_sat/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rede Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/37/Logo_Rede_Brasil.png" group-title="Canais Abertos",Rede Brasil HD
 https://redebrasil.nuvemplay.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rede TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV!.png" group-title="Canais Abertos",RedeTV! HD
+#EXTINF:-1 tvg-id="" tvg-name="Rede TV" tvg-logo="https://img.faz-o-eli.online/redetv.png" group-title="Canais Abertos",RedeTV! HD
 http://45.162.64.114/REDE_TV/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rede Vida" tvg-logo="http://static.redevida.com.br/img/redevida-logo.png" group-title="Canais Abertos",Rede Vida HD
+#EXTINF:-1 tvg-id="" tvg-name="Rede Vida" tvg-logo="https://img.faz-o-eli.online/redevida.png" group-title="Canais Abertos",Rede Vida HD
 http://64.31.23.207:80/59471019/60849037/3459546.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RIT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f9/Rede_Internacional_de_Televis%C3%A3o.png" group-title="Canais Abertos",RIT
 http://45.177.114.115/RIT_TV/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo1.png" group-title="Canais Abertos",SBT HD
+#EXTINF:-1 tvg-id="" tvg-name="SBT" tvg-logo="https://img.faz-o-eli.online/sbt.png" group-title="Canais Abertos",SBT HD
 http://64.31.23.207:80/59471019/60849037/324307.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SIC Internacional" tvg-logo="http://upload.wikimedia.org/wikipedia/fr/f/f8/SIC_Internacional.png" group-title="Variedades",SIC Internacional
-http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1743.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="Space" tvg-logo="http://convergecom.com.br/wp-content/uploads/2016/05/SPACE.png" group-title="Filmes",Space HD
 http://64.31.23.207:80/59471019/60849037/324465.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SporTV 2 Alternativo" tvg-logo="https://4.bp.blogspot.com/-UV4ZT1yTww0/V6U23nsuNSI/AAAAAAAAAwk/1jqu0WgkNkM_liUU9odLJ8SQIaaFxmXngCPcB/s1600/2.png" group-title="Esportes",SporTV 2
