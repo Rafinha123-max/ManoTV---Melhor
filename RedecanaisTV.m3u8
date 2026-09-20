@@ -65,8 +65,8 @@ http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1829.ts
 http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1827.ts
 #EXTINF:-1 tvg-id="" tvg-name="EI Maxx" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/eimaxxb.png" group-title="Esportes",EI Maxx
 http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1828.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Logo_espnbrasil.png/640px-Logo_espnbrasil.png" group-title="Esportes",ESPN Brasil
-http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1866.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Brasil" tvg-logo="https://img.faz-o-eli.online/espn4.png" group-title="Esportes",ESPN 4 HD
+http://64.31.23.207:80/59471019/60849037/3460193.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="http://vignette2.wikia.nocookie.net/clubpenguin/images/9/9b/Logo_ESPN.png/revision/latest?cb=20140622175252" group-title="Esportes",ESPN HD
 http://64.31.23.207:80/59471019/60849037/3460183.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fish TV" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/fishtv.png" group-title="Variedades",Fish TV HD
@@ -76,7 +76,7 @@ http://64.31.23.207:80/59471019/60849037/518566.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox Life" tvg-logo="http://vignette3.wikia.nocookie.net/telepedia/images/8/80/Fox_Life_Brasil_Logo.png/revision/latest?cb=20140126143942&path-prefix=pt-br" group-title="Variedades",Fox Life
 http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1817.ts
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2" tvg-logo="https://img.faz-o-eli.online/espn5.png" group-title="Esportes",ESPN 5 HD
-http://64.31.23.207:80/59471019/60849037/3460197.m3u8
+http://64.31.23.207:80/59471019/60849037/3460195.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports" tvg-logo="https://img.faz-o-eli.online/espn4.png" group-title="Esportes",ESPN 4 HD
 http://64.31.23.207:80/59471019/60849037/3460192.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/8/88/Fox_logo_orange.png/revision/latest?cb=20121206124654" group-title="Series",FOX
