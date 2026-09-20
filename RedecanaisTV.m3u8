@@ -46,7 +46,7 @@ http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1842.ts
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="https://cf.press.discovery.com/ugc/logos/2009/08/22/DSC_pos.png" group-title="Documentarios",Discovery Channel HD
 http://64.31.23.207:80/59471019/60849037/297936.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Civilization" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/9/9b/Discovery_Civilization_2011.png/revision/latest?cb=20110127062351" group-title="Documentarios",Discovery Civilization
-http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1839.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="Discovery H&H" tvg-logo="http://3.bp.blogspot.com/-e7U-6TeiJwo/TdRHH69VEBI/AAAAAAAABYc/1k7NVJGn8B0/s320/Discovery+Home+%2526+Health+icon+2011.png" group-title="Variedades",Discovery Home & Health HD
 http://64.31.23.207:80/59471019/60849037/297939.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/4/4b/Discovery_kids_hd_logo.png/revision/latest?cb=20140318145557" group-title="Infantis",Discovery Kids HD
@@ -113,7 +113,7 @@ http://64.31.23.207:80/59471019/60849037/514107.m3u8
 http://64.31.23.207:80/59471019/60849037/514110.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="I-SAT" tvg-logo="http://www.lamac.org/res/channels/logos/_0008_isat.png" group-title="Series",I-SAT
 http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1796.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID - Investigacao Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/8/86/20120708204205!Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png" group-title="Series",ID - Investigação Discovery HD
+#EXTINF:-1 tvg-id="" tvg-name="ID - Investigacao Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/8/86/20120708204205!Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png" group-title="Series",Investigação Discovery HD
 http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1795.ts
 #EXTINF:-1 tvg-id="" tvg-name="Ideal TV" tvg-logo="https://img.faz-o-eli.online/xsports.png" group-title="Canais Abertos",Xsports HD
 http://64.31.23.207:80/59471019/60849037/3460175.m3u8
@@ -122,11 +122,11 @@ http://64.31.23.207:80/59471019/60849037/518571.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mais Globosat" tvg-logo="http://g.glbimg.com/og/gs/gsat3/static_files/responsivo/assets/images/maisglobosat/logo/maisglobosat.png" group-title="Canais Globosat",Modo Viagem HD
 http://64.31.23.207:80/59471019/60849037/518574.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MAX Prime e" tvg-logo="http://www.claro.com.co/portal/co/recursos_contenido/77a81d2c-9157-4adf-a1f5-7b6c6e9e4443-Max-Prime-Este.png" group-title="Canais HBO",MAX Prime e
-http://64.31.23.207:80/59471019/60849037/3460224.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="MAX Prime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Max_Prime_2012_logo.svg/2000px-Max_Prime_2012_logo.svg.png" group-title="Canais HBO",HBO Xtreme HD
 http://64.31.23.207:80/59471019/60849037/514128.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MAX UP" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/maxup.png" group-title="Canais HBO",MAX UP
-http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1788.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="MAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Max_logo.png" group-title="Canais HBO",HBO POP HD
 http://64.31.23.207:80/59471019/60849037/514122.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MegaPix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Megapix_logo_2011.png" group-title="Filmes",MEGAPIX HD
