@@ -17,8 +17,8 @@ https://media.cdntvms.com.br/band_sat/index.m3u8
 http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1857.ts
 #EXTINF:-1 tvg-id="" tvg-name="Band Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BandSports_logo.svg/2000px-BandSports_logo.svg.png" group-title="Esportes",Band Sports HD
 http://64.31.23.207:80/59471019/60849037/3460152.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bandeirantes" tvg-logo="http://www.endocrinologia.com.br/2015/img/vd/band_mg.png" group-title="Canais Abertos",Band Minas HD
-http://64.31.23.207:80/59471019/60849037/324359.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bandeirantes" tvg-logo="http://www.endocrinologia.com.br/2015/img/vd/band_mg.png" group-title="Canais Abertos",Band HD
+http://64.31.23.207:80/59471019/60849037/324361.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BIS" tvg-logo="http://s2.glbimg.com/ymTn9IE0rr_YJHRPbzwhmyCSdFk=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/d7/69/8ca415a17b57bdc9dff88a951e82.png" group-title="Entretenimento",BIS HD
 http://64.31.23.207:80/59471019/60849037/518551.m3u8
 #EXTINF:-1 tvg-id="Boomerang [Brazil]" tvg-name="Boomerang" tvg-logo="https://img.faz-o-eli.online/cartoonito.png" group-title="Infantis",Cartoonito HD
@@ -87,7 +87,7 @@ http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1820.ts
 http://45.162.64.114/FUTURA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/FX_Italia_logo.svg/2000px-FX_Italia_logo.svg.png" group-title="Series",FX
 http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1812.ts
-#EXTINF:-1 tvg-id="" tvg-name="Globo SP" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/ca/Tv_globo_internacional_2011.png/revision/latest?cb=20140406193435" group-title="Canais Abertos",Globo São Paulo HD
+#EXTINF:-1 tvg-id="" tvg-name="Globo SP" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/ca/Tv_globo_internacional_2011.png/revision/latest?cb=20140406193435" group-title="Canais Abertos",Globo HD
 http://64.31.23.207:80/59471019/60849037/324386.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Globo MG" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/ca/Tv_globo_internacional_2011.png/revision/latest?cb=20140406193435" group-title="Canais Abertos",Globo Minas HD
 
