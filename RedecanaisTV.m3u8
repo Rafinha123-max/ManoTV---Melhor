@@ -1,6 +1,8 @@
 #EXTM3U url-tvg="http://epgontvhdbr.com/,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/vivoplay.xml"
 
 
+#EXTINF:-1 tvg-id="" tvg-name="GE TV" tvg-logo="https://mondrian.claro.com.br/channels/inverse/ge-tv.png" group-title="Esportes", GE TV HD
+http://64.31.23.207:80/59471019/60849037/3460155.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/2000px-Animal_Planet_logo.svg.png" group-title="Documentarios",Animal Planet HD
 http://64.31.23.207:80/59471019/60849037/296619.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Aparecida" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tvaparecida.png" group-title="Canais Abertos",Aparecida HD
