@@ -19,7 +19,7 @@ http://64.31.23.207:80/59471019/60849037/3460152.m3u8
 http://64.31.23.207:80/59471019/60849037/324359.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BIS" tvg-logo="http://s2.glbimg.com/ymTn9IE0rr_YJHRPbzwhmyCSdFk=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/d7/69/8ca415a17b57bdc9dff88a951e82.png" group-title="Entretenimento",BIS HD
 http://64.31.23.207:80/59471019/60849037/518551.m3u8
-#EXTINF:-1 tvg-id="Boomerang [Brazil]" tvg-name="Boomerang" tvg-logo="http://www.clipartbest.com/cliparts/niE/En4/niEEn4a6T.png" group-title="Infantis",Cartoonito HD
+#EXTINF:-1 tvg-id="Boomerang [Brazil]" tvg-name="Boomerang" tvg-logo="https://img.faz-o-eli.online/cartoonito.png" group-title="Infantis",Cartoonito HD
 http://64.31.23.207:80/59471019/60849037/1882631.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal Brasil" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/canalbrasilb.png" group-title="Filmes",Canal Brasil HD
 http://64.31.23.207:80/59471019/60849037/324439.m3u8
@@ -75,10 +75,10 @@ http://45.162.64.114/FISH_TV/index.m3u8
 http://64.31.23.207:80/59471019/60849037/518566.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox Life" tvg-logo="http://vignette3.wikia.nocookie.net/telepedia/images/8/80/Fox_Life_Brasil_Logo.png/revision/latest?cb=20140126143942&path-prefix=pt-br" group-title="Variedades",Fox Life
 http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1817.ts
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Fox_Sports_2_logo.png" group-title="Esportes",ESPN 6 HD
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2" tvg-logo="https://img.faz-o-eli.online/espn5.png" group-title="Esportes",ESPN 5 HD
 http://64.31.23.207:80/59471019/60849037/3460197.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports" tvg-logo="http://www.logospike.com/wp-content/uploads/2015/11/Fox_Sports_Logo_01.png" group-title="Esportes",ESPN 5 HD
-http://64.31.23.207:80/59471019/60849037/3460194.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports" tvg-logo="https://img.faz-o-eli.online/espn4.png" group-title="Esportes",ESPN 4 HD
+http://64.31.23.207:80/59471019/60849037/3460192.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/8/88/Fox_logo_orange.png/revision/latest?cb=20121206124654" group-title="Series",FOX
 http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1820.ts
 #EXTINF:-1 tvg-id="" tvg-name="Futura" tvg-logo="http://portal.pucminas.br/puctv/imagens/parceiros/Futura_1.png" group-title="Documentarios",Futura HD
@@ -153,7 +153,7 @@ http://45.162.64.114/NOVO_TEMPO/index.m3u8
 http://64.31.23.207:80/59471019/60849037/518583.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Paramount" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/d/d9/Paramount_1988_Communications.png/revision/latest?cb=20121103012803" group-title="Filmes",Paramount
 http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1774.ts
-#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes" tvg-logo="http://www.vendasclaro.com.br/blog/wp-content/uploads/2015/07/PremiereFC-na-claro-tv.png" group-title="Esportes",Premiere Clubes HD
+#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes" tvg-logo="https://img.faz-o-eli.online/premiere.png" group-title="Esportes",Premiere Clubes HD
 http://64.31.23.207:80/59471019/60849037/324401.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 2" tvg-logo="http://www.vendasclaro.com.br/blog/wp-content/uploads/2015/07/PremiereFC-na-claro-tv.png" group-title="Esportes",Premiere 2
 http://64.31.23.207:80/59471019/60849037/3460212.m3u8
@@ -194,14 +194,14 @@ http://64.31.23.207:80/59471019/60849037/324307.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SIC Internacional" tvg-logo="http://upload.wikimedia.org/wikipedia/fr/f/f8/SIC_Internacional.png" group-title="Variedades",SIC Internacional
 http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1743.ts
 #EXTINF:-1 tvg-id="" tvg-name="Space" tvg-logo="http://convergecom.com.br/wp-content/uploads/2016/05/SPACE.png" group-title="Filmes",Space HD
-http://64.31.23.207:80/59471019/60849037/324463.m3u8
+http://64.31.23.207:80/59471019/60849037/324465.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SporTV 2 Alternativo" tvg-logo="https://4.bp.blogspot.com/-UV4ZT1yTww0/V6U23nsuNSI/AAAAAAAAAwk/1jqu0WgkNkM_liUU9odLJ8SQIaaFxmXngCPcB/s1600/2.png" group-title="Esportes",SporTV 2
 
 #EXTINF:-1 tvg-id="" tvg-name="SporTV 2" tvg-logo="http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/08/sportv2.png" group-title="Esportes",SporTV 2 HD
 http://64.31.23.207:80/59471019/60849037/3460205.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SporTV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/SporTV_3_logo_2011.png" group-title="Esportes",SporTV 3 HD
 http://64.31.23.207:80/59471019/60849037/3460206.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SporTV Alternativo" tvg-logo="http://static2.wikia.nocookie.net/__cb20120720191553/logopedia/images/5/56/SporTV_logo_2011.png" group-title="Esportes",SporTV HD
+#EXTINF:-1 tvg-id="" tvg-name="SporTV Alternativo" tvg-logo="https://img.faz-o-eli.online/sportv.png" group-title="Esportes",SporTV HD
 http://64.31.23.207:80/59471019/60849037/324391.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SporTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/SporTV_logo_2011.png" group-title="Esportes",SporTV
 
@@ -231,9 +231,9 @@ http://64.31.23.207:80/59471019/60849037/3459589.m3u8
 http://64.31.23.207:80/59471019/60849037/296613.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/TLC_USA_logo.png" group-title="Variedades",TLC HD
 http://64.31.23.207:80/59471019/60849037/518586.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TNT Series" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/6/68/Logo_TNT_Series.png/revision/latest?cb=20150603173408" group-title="Series",TNT Series HD
-http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1714.ts
-#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title="Filmes",TNT HD
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/6/68/Logo_TNT_Series.png/revision/latest?cb=20150603173408" group-title="Series",TNT Séries HD
+http://64.31.23.207:80/59471019/60849037/324495.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="https://img.faz-o-eli.online/tnts.png" group-title="Filmes",TNT HD
 http://64.31.23.207:80/59471019/60849037/324481.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tooncast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/2000px-Tooncast_logo.svg.png" group-title="Infantis",Tooncast HD
 http://64.31.23.207:80/59471019/60849037/1882638.m3u8
