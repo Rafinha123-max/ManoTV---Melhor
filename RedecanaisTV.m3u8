@@ -37,6 +37,9 @@ http://45.185.11.126:8000/play/a0an/index.m3u8
 #EXTINF:0,Canal UOL HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a0a4/index.m3u8
+#EXTINF:0, Nickelodeon HD
+#EXTVLCOPT:network-caching=1000
+https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
 #EXTINF:0,Cartoon Network HD
 #EXTVLCOPT:network-caching=1000
 http://45.162.64.114/CARTOON_NETWORK/index.m3u8
@@ -52,7 +55,7 @@ http://45.185.11.126:8000/play/a06f/index.m3u8
 #EXTINF:0,Combate HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a073/index.m3u8
-#EXTINF:0,DumDum HD
+#EXTINF:0,Dum Dum HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a078/index.m3u8
 #EXTINF:0,Discovery Home & Health HD
@@ -76,6 +79,9 @@ http://45.185.11.126:8000/play/a07z/index.m3u8
 #EXTINF:0,Discovery World HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a086/index.m3u8
+#EXTINF:0,ESPN HD
+#EXTVLCOPT:network-caching=1000
+https://cr7v.short.gy/live25/spn/Index.m3u8
 #EXTINF:0,ESPN 4 HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a05m/index.m3u8
@@ -97,7 +103,7 @@ http://45.185.11.126:8000/play/a079/index.m3u8
 #EXTINF:0,GloboNews HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a08d/index.m3u8
-#EXTINF:0,Globoplay Novelas HD
+#EXTINF:0,VIVA HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a06w/index.m3u8
 #EXTINF:0,Gloob HD
@@ -112,22 +118,22 @@ http://45.185.11.126:8000/play/a08q/index.m3u8
 #EXTINF:0,HBO HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a08n/index.m3u8
-#EXTINF:0,HBO MUNDI HD
+#EXTINF:0,HBO Mundi HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a082/index.m3u8
-#EXTINF:0,HBO POP HD
+#EXTINF:0,HBO Pop HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a08s/index.m3u8
 #EXTINF:0,HBO Signature HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a08r/index.m3u8
-#EXTINF:0,HBO XTREME HD
+#EXTINF:0,HBO Xtreme HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a083/index.m3u8
-#EXTINF:0,HBO+ HD
+#EXTINF:0,HBO Plus HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a08p/index.m3u8
-#EXTINF:0,HBO2 HD
+#EXTINF:0,HBO 2 HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a08o/index.m3u8
 #EXTINF:0,HGTV HD
@@ -136,7 +142,7 @@ http://45.185.11.126:8000/play/a074/index.m3u8
 #EXTINF:0,History HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a0al/index.m3u8
-#EXTINF:0,Investigação Discovery HD
+#EXTINF:0,Discovery ID HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a089/index.m3u8
 #EXTINF:0,JP News HD
@@ -145,7 +151,7 @@ http://45.185.11.126:8000/play/a0a1/index.m3u8
 #EXTINF:0,Lifetime HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a06l/index.m3u8
-#EXTINF:0,Megapix HD
+#EXTINF:0,MEGAPIX HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a057/index.m3u8
 #EXTINF:0,Modo Viagem HD
@@ -241,7 +247,7 @@ http://45.185.11.126:8000/play/a08l/index.m3u8
 #EXTINF:0,Travel Food & Drinks HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a07x/index.m3u8
-#EXTINF:0,USA Network HD
+#EXTINF:0,Syfy HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a06k/index.m3u8
 #EXTINF:0,Universal Premiere Clubes HD
@@ -270,51 +276,3 @@ http://45.185.11.126:8000/play/a05f/index.m3u8
 http://45.185.11.126:8000/play/a06v/index.m3u8
 
 
-#EXTINF:-1,US: ACC Network
-
-#EXTINF:-1,US: Big Ten Network
-
-#EXTINF:-1,US: SEC Network
-
-#EXTINF:-1,USA | ACCUWEATHER
-http://206.212.244.63/3/index.m3u8
-#EXTINF:-1,USA | ACCUWEATHER
-http://206.212.244.63/674/index.m3u8
-#EXTINF:-1,USA | ESPN
-http://206.212.244.63/59/index.m3u8
-
-#EXTINF:-1,PT: EUROSPORT 1
-http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/99481
-#EXTINF:-1,PT: EUROSPORT 2
-http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/99482
-#EXTINF:-1,PT: SPORT TV +
-http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/99483
-#EXTINF:-1,PT: SPORT TV 1
-http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/99484
-#EXTINF:-1,PT: SPORT TV 2
-http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/99485
-#EXTINF:-1,PT: SPORT TV 3
-http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/99486
-#EXTINF:-1,PT: SPORT TV 4
-http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/99487
-#EXTINF:-1,PT: SPORT TV 5
-http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/99488
-#EXTINF:-1,PT: SPORT TV 6
-http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/99489
-#EXTINF:-1,PT: SPORTING TV
-http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/99490
-
-
-
-#EXTINF:-1,Eurosport 2  HD
-http://89.44.231.117:7000/eurosport2
-#EXTINF:-1,Eurosport HD
-http://89.44.231.117:7000/eurosport
-#EXTINF:-1,Eurosport 2 HD
-http://89.44.231.73:7000/eurosport2
-#EXTINF:-1,Eurosport HD
-http://89.44.231.73:7000/eurosport
-#EXTINF:-1,Eurosport 2 HD
-http://89.44.231.115:7000/eurosport2
-#EXTINF:-1,Eurosport HD
-http://89.44.231.115:7000/eurosport
