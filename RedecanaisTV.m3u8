@@ -2,7 +2,7 @@
 
 #EXTINF:-1 group-title="CANAIS: FILMES E SÉRIES" tvg-logo="https://img.faz-o-eli.online/universaltv.png",Universal TV HD
 https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/universaltv.m3u8
-#EXTINF:-1 group-title="CANAIS: FILMES E SÉRIES" tvg-logo="https://img.faz-o-eli.online/space.png",Space SD
+#EXTINF:-1 group-title="CANAIS: FILMES E SÉRIES" tvg-logo="https://img.faz-o-eli.online/space.png",Space HD
 http://45.162.64.114/SPACE/index.m3u8
 #EXTINF:-1 group-title="CANAIS: NOVELAS" tvg-logo="https://img.faz-o-eli.online/viva.png",VIVA HD
 https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/globonovelas.m3u8
