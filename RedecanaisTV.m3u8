@@ -1,5 +1,10 @@
 #EXTM3U url-tvg="http://epgontvhdbr.com/,https://epg.pw/xmltv/epg_BR.xml"
 
+#EXTINF:-1 group-title="CANAIS: FILMES E SÉRIES" tvg-logo="https://img.faz-o-eli.online/universaltv.png",Universal TV HD
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/universaltv.m3u8
+#EXTINF:-1 group-title="CANAIS: FILMES E SÉRIES" tvg-logo="https://img.faz-o-eli.online/space.png",Space SD
+#EXTINF:-1 group-title="CANAIS: NOVELAS" tvg-logo="https://img.faz-o-eli.online/viva.png",Globoplay Novelas HD
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/globonovelas.m3u8
 #EXTINF:-1 group-title="CANAIS: FILMES E SÉRIES" tvg-logo="https://img.faz-o-eli.online/warnerchannel.png",Warner Channel HD
 https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/warnerchannel.m3u8
 #EXTINF:-1 group-title="CANAIS: FILMES E SÉRIES" tvg-logo="https://img.faz-o-eli.online/tnt.png",TNT HD
@@ -12,7 +17,7 @@ https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/globomg.m3u8
 https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/bandsports.m3u8
 #EXTINF:-1 group-title="CANAIS: TELECINE" tvg-logo="http://1.bp.blogspot.com/-pIwQ4jpCaSA/Xk70h2WvMuI/AAAAAAAACG8/H7IRhohaMuIRdiA7vvJOAP8WhylZVCw8ACLcBGAsYHQ/s1600/tcaction.png",Telecine Action HD
 https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/telecineaction.m3u8
-#EXTINF:-1 group-title="CANAIS: VARIEDADES" tvg-logo="http://4.bp.blogspot.com/-ymMQqU8o9w4/XmQF4ZEEykI/AAAAAAAACRE/twbhOl3niJIoKhnYFk_-al4ULYFLKqiAgCK4BGAYYCw/s400/OFF.png",Canal OFF HD
+#EXTINF:-1 group-title="CANAIS: VARIEDADES" tvg-logo="http://4.bp.blogspot.com/-ymMQqU8o9w4/XmQF4ZEEykI/AAAAAAAACRE/twbhOl3niJIoKhnYFk_-al4ULYFLKqiAgCK4BGAYYCw/s400/OFF.png",Canal Off HD
 https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/off.m3u8
 #EXTINF:-1 group-title="CANAIS: HBO" tvg-logo="http://1.bp.blogspot.com/-KUhkg79gvtE/Xk70Ycy0l6I/AAAAAAAACFU/FSdt9HsRs98gkzltg-oGA049omcb1KWlQCLcBGAsYHQ/s1600/hbo.png",HBO HD
 https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/hbo.m3u8
@@ -44,6 +49,20 @@ https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/discoverykids.m3u8
 http://170.83.16.50:80/TOONCAST/index.m3u8
 #EXTINF:-1 group-title="CANAIS: PREMIERE" tvg-logo="https://img.faz-o-eli.online/premiere.png",Premiere Clubes HD
 https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere.m3u8
+#EXTINF:-1 group-title="CANAIS: PREMIERE" tvg-logo="https://img.faz-o-eli.online/premiere.png",Premiere Clubes HD
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere2.m3u8
+#EXTINF:-1 group-title="CANAIS: PREMIERE" tvg-logo="https://img.faz-o-eli.online/premiere.png",Premiere Clubes HD
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere3.m3u8
+#EXTINF:-1 group-title="CANAIS: PREMIERE" tvg-logo="https://img.faz-o-eli.online/premiere.png",Premiere Clubes HD
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere4.m3u8
+#EXTINF:-1 group-title="CANAIS: PREMIERE" tvg-logo="https://img.faz-o-eli.online/premiere.png",Premiere Clubes HD
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere5.m3u8
+#EXTINF:-1 group-title="CANAIS: PREMIERE" tvg-logo="https://img.faz-o-eli.online/premiere.png",Premiere Clubes HD
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere6.m3u8
+#EXTINF:-1 group-title="CANAIS: PREMIERE" tvg-logo="https://img.faz-o-eli.online/premiere.png",Premiere Clubes HD
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere7.m3u8
+#EXTINF:-1 group-title="CANAIS: PREMIERE" tvg-logo="https://img.faz-o-eli.online/premiere.png",Premiere Clubes HD
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere8.m3u8
 #EXTINF:-1 group-title="CANAIS: FILMES E SÉRIES" tvg-logo="http://2.bp.blogspot.com/-nBtQ5UkiBI4/XmQcIAhLVYI/AAAAAAAACSk/posGzR9eqD4zllrPY3vGIk6wsFYBJtlRQCK4BGAYYCw/s400/AXN.png",AXN HD
 https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/axn.m3u8
 #EXTINF:-1 group-title="CANAIS: NOTÍCIAS" tvg-logo="http://1.bp.blogspot.com/-JElazdWUyUo/Xk70WwgDZCI/AAAAAAAACFE/Fj8OKkbTSp03ONDEPgW9PzMlDWSmMx52QCLcBGAsYHQ/s1600/globonews.png",Globo News HD
