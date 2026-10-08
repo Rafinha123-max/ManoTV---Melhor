@@ -5,11 +5,11 @@ http://138.204.86.4:8080/SONY_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS: HBO" tvg-logo="https://img.faz-o-eli.online/hbo2.png",HBO 2 HD
 http://45.185.11.126:8000/play/a08o/index.m3u8
 #EXTINF:-1 group-title="CANAIS: HBO" tvg-logo="https://img.faz-o-eli.online/hbofamily.png",HBO Family HD
-https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjExNS5tM3U4.m3u8
+http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/94383.ts
 #EXTINF:-1 group-title="CANAIS: MÚSICA" group-title="CANAIS: GLOBOSAT" tvg-logo="https://img.faz-o-eli.online/bis.png",BIS HD
-https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MTgwNi5tM3U4.m3u8
+http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/107985.ts
 #EXTINF:-1 group-title="CANAIS: FILMES E SÉRIES" tvg-logo="https://img.faz-o-eli.online/universaltv.png",Universal TV HD
-https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjQxOS5tM3U4.m3u8
+http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/21682.ts
 #EXTINF:-1 group-title="CANAIS: FILMES E SÉRIES" tvg-logo="https://img.faz-o-eli.online/space.png",Space HD
 http://138.204.86.4:8080/SPACE_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS: NOVELAS" group-title="CANAIS: GLOBOSAT" tvg-logo="https://img.faz-o-eli.online/viva.png",VIVA HD
@@ -28,12 +28,12 @@ http://138.204.86.4:8080/BAND_SPORTS_HD/index.m3u8
 http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/8998.ts
 #EXTINF:-1 group-title="CANAIS: HBO" tvg-logo="http://1.bp.blogspot.com/-KUhkg79gvtE/Xk70Ycy0l6I/AAAAAAAACFU/FSdt9HsRs98gkzltg-oGA049omcb1KWlQCLcBGAsYHQ/s1600/hbo.png",HBO HD
 https://cr7v.short.gy/ManoTV/temporário/index.m3u8
-#EXTINF:-1 group-title="CANAIS: SPORTV" group-title="CANAIS: GLOBOSAT" tvg-logo="http://1.bp.blogspot.com/-3oX39I3AE5Q/Xk70hb83MHI/AAAAAAAACG0/xPBRbtnyn_oqMBPSH10X7XlVE_EEFGMbwCLcBGAsYHQ/s1600/sportv.png",SporTV HD
-https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzExODgubTN1OA.m3u8
+#EXTINF:-1 group-title="CANAIS: SPORTV" group-title="CANAIS: GLOBOSAT" tvg-logo"https://img.faz-o-eli.online/sportv2.png",SporTV HD
+http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/81591.ts
 #EXTINF:-1 group-title="CANAIS: SPORTV" group-title="CANAIS: GLOBOSAT" tvg-logo="https://img.faz-o-eli.online/sportv2.png",SporTV 2 HD
-https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMDM0NzIubTN1OA.m3u8
+http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/9103.ts
 #EXTINF:-1 group-title="CANAIS: SPORTV" group-title="CANAIS: GLOBOSAT" tvg-logo="https://img.faz-o-eli.online/sportv3.png",SporTV 3 HD
-https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMDM0NzEubTN1OA.m3u8
+http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/9105.ts
 #EXTINF:-1 group-title="CANAIS: SPORTV" tvg-logo="https://img.sanishtech.com/u/0cbe0cc7730b1bab65df4203d00a2b09.png",SporTV 4K
 http://45.185.11.126:8000/play/a06f/index.m3u8
 #EXTINF:-1 group-title="CANAIS: ESPN" tvg-logo="http://1.bp.blogspot.com/-6WHUXIszhSo/Xk70ThUHf7I/AAAAAAAACEg/SiQTddgay9gyeGmfwBsvm57Fd4glh4wfgCLcBGAsYHQ/s1600/espn.png",ESPN HD
@@ -57,7 +57,7 @@ http://138.204.86.4:8080/DISCOVERY_KIDS_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS: INFANTIS" tvg- logo="https://img.faz-o-eli.online/tooncast.png",Tooncast HD
 http://170.83.16.50:80/TOONCAST/index.m3u8
 #EXTINF:-1 group-title="CANAIS: PREMIERE" tvg-logo="https://img.faz-o-eli.online/premiere.png",Premiere Clubes HD
-https://cr7v.short.gy/Pre1/ManoTV/index.m3u8
+http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/125438.ts
 #EXTINF:-1 group-title="CANAIS: PREMIERE" tvg-logo="https://img.faz-o-eli.online/premiere.png",Premiere 2 HD
 https://cr7v.short.gy/Pre2/ManoTV/index.m3u8
 #EXTINF:-1 group-title="CANAIS: PREMIERE" tvg-logo="https://img.faz-o-eli.online/premiere.png",Premiere 3 HD
