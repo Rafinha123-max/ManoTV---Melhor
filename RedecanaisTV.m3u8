@@ -32,10 +32,10 @@ http://138.204.86.4:8080/BAND_SPORTS_HD/index.m3u8
 http://64.31.23.207:80/59471019/60849037/518583.m3u8
 #EXTINF:-1 group-title="CANAIS: HBO" tvg-logo="http://1.bp.blogspot.com/-KUhkg79gvtE/Xk70Ycy0l6I/AAAAAAAACFU/FSdt9HsRs98gkzltg-oGA049omcb1KWlQCLcBGAsYHQ/s1600/hbo.png",HBO HD
 http://138.204.86.4:8080/HBO/index.m3u8
-#EXTINF:-1 group-title="CANAIS: SPORTV" tvg-logo="https://pictureurl.com/api/storage/file?key=u%2Fanon%2Ff3698e77-e9e7-404b-b6b9-fd25f5bf920c-GE_TV_logo.png",GE TV
+#EXTINF:-1 group-title="CANAIS: SPORTV" tvg-logo="https://pictureurl.com/api/storage/file?key=u%2Fanon%2Ff3698e77-e9e7-404b-b6b9-fd25f5bf920c-GE_TV_logo.png",GE TV HD
 
 #EXTINF:-1 group-title="CANAIS: SPORTV" group-title="CANAIS: GLOBOSAT" tvg-logo="https://img.faz-o-eli.online/sportv.png",SporTV HD
-http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/81591.m3u8
+http://64.31.23.207:80/59471019/60849037/3460200.m3u8
 #EXTINF:-1 group-title="CANAIS: SPORTV" group-title="CANAIS: GLOBOSAT" tvg-logo="https://img.faz-o-eli.online/sportv2.png",SporTV 2 HD
 http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/81592.m3u8
 #EXTINF:-1 group-title="CANAIS: SPORTV" group-title="CANAIS: GLOBOSAT" tvg-logo="https://img.faz-o-eli.online/sportv3.png",SporTV 3 HD
