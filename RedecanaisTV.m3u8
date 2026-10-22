@@ -1,5 +1,7 @@
 #EXTM3U url-tvg="http://epgontvhdbr.com/,https://epgshare01.online/epgshare01/epg_ripper_BR2.xml.gz,https://althierestm.github.io/Lista-RadarTV/epg.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/br.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/claro.xml,https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz,https://i.mjh.nz/PlutoTV/br.xml,https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/EPG/epg-rytec-pt.xml.xz,https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/EPG/epg-pt.xml.gz,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/globo-internacional.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/epg.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/vivoplay.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/globo.xml"
 
+#EXTINF:-1 group-title="CANAIS: ATUALIZAÇÃO" tvg-logo="https://pictureurl.com/api/storage/file?key=u%2Fanon%2Ff5d8781e-f12e-43c1-a120-3db5a17a2460-pngtree-stamp---update-message-photo-png-image_13581282.png",22/10/2026
+
 #EXTINF:-1 group-title="CANAIS: ESPORTES" tvg-logo="",Jogos de Hoje
 https://videotourl.com/videos/1792655524212-7fba96c8-485c-4f42-8d71-3ce442dc49c7.mp4
 #EXTINF:-1 group-title="CANAIS: FILMES E SÉRIES" tvg-logo="https://img.faz-o-eli.online/sonychannel.png",Sony Channel HD
