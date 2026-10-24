@@ -47,7 +47,7 @@ http://64.31.23.207:80/59471019/60849037/3460273.m3u8
 #EXTINF:-1 group-title="CANAIS: ESPORTES" tvg-logo="https://img.faz-o-eli.online/xsports.png",Ideal TV HD
 http://170.83.16.50:80/X_SPORTS/index.m3u8
 #EXTINF:-1 group-title="CANAIS: SPORTV" group-title="CANAIS: GLOBOSAT" tvg-logo="https://img.faz-o-eli.online/sportv.png",SporTV HD
-https://aws.s13-s1001604.lat/stream/f809a47c8a40c3642b96a3df2c2e563c/sportv.m3u8
+http://64.31.23.207:80/59471019/60849037/324391.m3u8
 #EXTINF:-1 group-title="CANAIS: SPORTV" group-title="CANAIS: GLOBOSAT" tvg-logo="https://img.faz-o-eli.online/sportv2.png",SporTV 2 HD
 http://64.31.23.207:80/59471019/60849037/3460203.m3u8
 #EXTINF:-1 group-title="CANAIS: SPORTV" group-title="CANAIS: GLOBOSAT" tvg-logo="https://img.faz-o-eli.online/sportv3.png",SporTV 3 HD
