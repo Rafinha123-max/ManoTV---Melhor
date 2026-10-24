@@ -29,6 +29,7 @@ http://138.204.86.4:8080/TNT_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS: GLOBO" tvg-logo="https://img.faz-o-eli.online/globo.png",Globo HD
 http://138.204.86.4:8080/GLOBO_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS: GLOBO" tvg-logo="https://img.faz-o-eli.online/globo.png",Globo Belo Horizonte
+#EXTVLCOPT:network-caching=5000
 http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1168940.ts
 #EXTINF:-1 group-title="CANAIS: ESPORTES" tvg-logo="http://1.bp.blogspot.com/-w_-8bx1hzcI/XmUJ5N5F7VI/AAAAAAAACVA/xJhpJpOiCMEJfcx7tucUtNqdLs53IFp-QCK4BGAYYCw/s400/BAND%2BSPORT.png",Band Sports HD
 http://138.204.86.4:8080/BAND_SPORTS_HD/index.m3u8
@@ -53,6 +54,7 @@ http://64.31.23.207:80/59471019/60849037/3460203.m3u8
 #EXTINF:-1 group-title="CANAIS: SPORTV" group-title="CANAIS: GLOBOSAT" tvg-logo="https://img.faz-o-eli.online/sportv3.png",SporTV 3 HD
 http://64.31.23.207:80/59471019/60849037/3460206.m3u8
 #EXTINF:-1 tvg-logo="https://pictureurl.com/api/storage/file?key=u%2Fanon%2Fe3ae6ca2-fb4d-4e9c-9583-2c48900ab19e-images__4___1_.png" group-title="CANAIS: SPORTV",SporTV 4K
+#EXTVLCOPT:network-caching=5000
 http://45.185.11.126:8000/play/a06f?network-caching=5000
 #EXTINF:-1 group-title="CANAIS: ESPN" tvg-logo="http://1.bp.blogspot.com/-6WHUXIszhSo/Xk70ThUHf7I/AAAAAAAACEg/SiQTddgay9gyeGmfwBsvm57Fd4glh4wfgCLcBGAsYHQ/s1600/espn.png",ESPN HD
 http://138.204.86.4:8080/ESPN_HD/index.m3u8
@@ -67,6 +69,7 @@ http://200.77.176.130:80/RECORD/index.m3u8
 #EXTINF:-1 group-title="CANAIS: RECORD" tvg-logo="https://img.faz-o-eli.online/tvcultura.png",TV Cultura HD
 http://138.204.86.4:8080/TV_CULTURA_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS: RECORD" tvg-logo="http://1.bp.blogspot.com/-XLsOZ60zFmY/Xk70eb1f_EI/AAAAAAAACGY/AxeGba7vVX0CNxveZAuNj3QzXwaN_t8FQCLcBGAsYHQ/s1600/record.png",Record TV Minas HD
+#EXTVLCOPT:network-caching=5000
 http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/9055.ts
 #EXTINF:-1 group-title="CANAIS: BAND" tvg-logo="http://1.bp.blogspot.com/-7wD5BCJxD9Y/Xk70MQFgPEI/AAAAAAAACDQ/BpR4PcQ1ou48cOLmC77yc1mz9xkZ0zssgCLcBGAsYHQ/s1600/band_2.png",Band HD
 http://138.204.86.4:8080/BAND_HD/index.m3u8
@@ -77,14 +80,16 @@ http://167.249.23.102:8000/play/CartoonNetwork/index.m3u8
 #EXTINF:-1 group-title="CANAIS: INFANTIS" tvg-logo="https://img.faz-o-eli.online/cartoonnetwork.png",Cartoon Network HD
 http://45.162.64.114/CARTOON_NETWORK/index.m3u8
 #EXTINF:-1 group-title="CANAIS: INFANTIS" tvg-logo="https://img.faz-o-eli.online/gloob.png",Gloob HD
+#EXTVLCOPT:network-caching=5000
 http://64.31.23.207:80/59471019/60849037/1882625.m3u8
 #EXTINF:-1 group-title="CANAIS: INFANTIS" tvg-logo="https://img.faz-o-eli.online/discoverykids.png",Discovery Kids HD
 http://138.204.86.4:8080/DISCOVERY_KIDS_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS: INFANTIS" tvg-logo="https://img.faz-o-eli.online/discoverykids.png",LA • Discovery Kids HD
+#EXTVLCOPT:network-caching=5000
 http://38.224.231.176:8000/play/a06x/index.m3u8
 #EXTINF:-1 group-title="CANAIS: INFANTIS" tvg-logo="https://img.faz-o-eli.online/tooncast.png",Tooncast HD
 http://170.83.16.50:80/TOONCAST/index.m3u8
-#EXTINF:-1 group-title="CANAIS: INFANTIS" tvg-logo="https://img.faz-o-eli.online/nickelodeon.png",Nickelodeon HD
+#EXTINF:-1 group-title="CANAIS: INFANTIS" tvg-logo="https://img.faz-o-eli.onlinenickelodeon.png",Nickelodeon HD
 https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS: PREMIERE" tvg-logo="https://img.faz-o-eli.online/premiere.png",Premiere Clubes HD
 http://79.127.238.228:14157/PremiereClubes
