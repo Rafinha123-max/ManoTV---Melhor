@@ -54,7 +54,7 @@ http://64.31.23.207:80/59471019/60849037/3460203.m3u8
 http://64.31.23.207:80/59471019/60849037/3460206.m3u8
 #EXTINF:-1 tvg-logo="https://pictureurl.com/api/storage/file?key=u%2Fanon%2Fe3ae6ca2-fb4d-4e9c-9583-2c48900ab19e-images__4___1_.png" group-title="CANAIS: SPORTV",SporTV 4K
 #EXTVLCOPT:http-reconnect-timeout=5000
-http://45.185.11.126:8000/play/a06f?buffer=5000
+http://45.185.11.126:8000/play/a06f
 #EXTINF:-1 group-title="CANAIS: ESPN" tvg-logo="http://1.bp.blogspot.com/-6WHUXIszhSo/Xk70ThUHf7I/AAAAAAAACEg/SiQTddgay9gyeGmfwBsvm57Fd4glh4wfgCLcBGAsYHQ/s1600/espn.png",ESPN HD
 http://138.204.86.4:8080/ESPN_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS: ESPN" tvg-logo="https://img.faz-o-eli.online/espn2.png",ESPN 2 HD
