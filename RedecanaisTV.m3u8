@@ -28,7 +28,7 @@ http://158.172.155.130:8000/play/a0dv/index.m3u8
 https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS: FILMES E SÉRIES" tvg-logo="https://img.faz-o-eli.online/tnt.png",TNT HD
 http://138.204.86.4:8080/TNT_HD/index.m3u8
-#EXTINF:-1 group-title="CANAIS: GLOBO" tvg-logo="https://img.faz-o-eli.online/globo.png",Globo HD
+#EXTINF:-1 group-title="CANAIS: GLOBO" tvg-logo="https://img.faz-o-eli.online/globo.png",Globo Rio HD
 http://138.204.86.4:8080/GLOBO_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS: GLOBO" tvg-logo="https://img.faz-o-eli.online/globo.png",Globo Belo Horizonte
 #EXTVLCOPT:network-caching=5000
@@ -68,7 +68,7 @@ http://138.204.86.4:8080/ESPN2_HD/index.m3u8
 http://138.204.86.4:8080/ESPN3_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS: SBT" tvg-logo="http://1.bp.blogspot.com/-w44XqjPTvWs/Xk70frnPuKI/AAAAAAAACGo/WLsOdZ3ANYApiYNooamMIhJAWiZwP2yLgCLcBGAsYHQ/s1600/sbt.png",SBT HD
 http://138.204.86.4:8080/SBT_HD/index.m3u8
-#EXTINF:-1 group-title="CANAIS: RECORD" tvg-logo="https://img.faz-o-eli.online/record.png",Record TV Interior HD
+#EXTINF:-1 group-title="CANAIS: RECORD" tvg-logo="https://img.faz-o-eli.online/record.png",Record HD
 http://200.77.176.130:80/RECORD/index.m3u8
 #EXTINF:-1 group-title="CANAIS: RECORD" tvg-logo="https://img.faz-o-eli.online/tvcultura.png",TV Cultura HD
 http://138.204.86.4:8080/TV_CULTURA_HD/index.m3u8
@@ -93,7 +93,7 @@ http://138.204.86.4:8080/DISCOVERY_KIDS_HD/index.m3u8
 http://38.224.231.176:8000/play/a06x/index.m3u8
 #EXTINF:-1 group-title="CANAIS: INFANTIS" tvg-logo="https://img.faz-o-eli.online/tooncast.png",Tooncast HD
 http://170.83.16.50:80/TOONCAST/index.m3u8
-#EXTINF:-1 group-title="CANAIS: INFANTIS" tvg-logo="https://img.faz-o-eli.online/nickelodeon.png",Nickelodeon HD
+#EXTINF:-1 group-title="CANAIS: INFANTIS" tvg-logo="https://img.faz-o-eli.online/nickelodeon.png",Nick HD
 https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS: PREMIERE" tvg-logo="https://img.faz-o-eli.online/premiere.png",Premiere Clubes HD
 http://79.127.238.228:14157/PremiereClubes
