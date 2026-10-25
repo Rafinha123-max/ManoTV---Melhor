@@ -33,6 +33,9 @@ http://138.204.86.4:8080/GLOBO_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS: GLOBO" tvg-logo="https://img.faz-o-eli.online/globo.png",Globo Belo Horizonte
 #EXTVLCOPT:network-caching=5000
 http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1168940.ts
+#EXTINF:-1 group-title="CANAIS: ABERTOS" tvg-logo="https://pictureurl.com/api/storage/file?key=u%2Fanon%2F72404d2d-5e1e-4256-a952-3865cfaef285-ABC-2021-LOGO.png",US • ABC HD
+#EXTVLCOPT:network-caching=5000
+http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/1087/index.m3u8
 #EXTINF:-1 group-title="CANAIS: ESPORTES" tvg-logo="http://1.bp.blogspot.com/-w_-8bx1hzcI/XmUJ5N5F7VI/AAAAAAAACVA/xJhpJpOiCMEJfcx7tucUtNqdLs53IFp-QCK4BGAYYCw/s400/BAND%2BSPORT.png",Band Sports HD
 http://138.204.86.4:8080/BAND_SPORTS_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS: VARIEDADES" tvg-logo="http://4.bp.blogspot.com/-ymMQqU8o9w4/XmQF4ZEEykI/AAAAAAAACRE/twbhOl3niJIoKhnYFk_-al4ULYFLKqiAgCK4BGAYYCw/s400/OFF.png",OFF HD
@@ -95,7 +98,7 @@ http://138.204.86.4:8080/DISCOVERY_KIDS_HD/index.m3u8
 http://38.224.231.176:8000/play/a06x/index.m3u8
 #EXTINF:-1 group-title="CANAIS: INFANTIS" tvg-logo="https://img.faz-o-eli.online/tooncast.png",Tooncast HD
 http://170.83.16.50:80/TOONCAST/index.m3u8
-#EXTINF:-1 group-title="CANAIS: INFANTIS" tvg-logo="https://img.faz-o-eli.online/nickelodeon.png",Nick HD
+#EXTINF:-1 group-title="CANAIS: INFANTIS" tvg-logo="https://img.faz-o-eli.online/nickelodeon.png",Nickelodeon HD
 https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS: PREMIERE" tvg-logo="https://img.faz-o-eli.online/premiere.png",Premiere Clubes HD
 http://79.127.238.228:14157/PremiereClubes
