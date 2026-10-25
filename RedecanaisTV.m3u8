@@ -53,7 +53,8 @@ http://170.83.16.50:80/X_SPORTS/index.m3u8
 #EXTINF:-1 group-title="CANAIS: SPORTV" group-title="CANAIS: GLOBOSAT" tvg-logo="https://img.faz-o-eli.online/sportv.png",SporTV HD
 http://64.31.23.207:80/59471019/60849037/324391.m3u8
 #EXTINF:-1 group-title="CANAIS: SPORTV" group-title="CANAIS: GLOBOSAT" tvg-logo="https://img.faz-o-eli.online/sportv2.png",SporTV 2 HD
-http://64.31.23.207:80/59471019/60849037/3460203.m3u8
+#EXTVLCOPT:network-caching=5000
+http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/30123.m3u8
 #EXTINF:-1 group-title="CANAIS: SPORTV" group-title="CANAIS: GLOBOSAT" tvg-logo="https://img.faz-o-eli.online/sportv3.png",SporTV 3 HD
 http://64.31.23.207:80/59471019/60849037/3460206.m3u8
 #EXTINF:-1 tvg-logo="https://pictureurl.com/api/storage/file?key=u%2Fanon%2Fe3ae6ca2-fb4d-4e9c-9583-2c48900ab19e-images__4___1_.png" group-title="CANAIS: SPORTV",SporTV 4K
