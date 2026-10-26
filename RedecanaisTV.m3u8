@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epgontvhdbr.com/,https://epgshare01.online/epgshare01/epg_ripper_BR2.xml.gz,https://althierestm.github.io/Lista-RadarTV/epg.xml,https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/EPG/epg-rytec-pt.xml.xz,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/globo-internacional.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/epg.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/vivoplay.xml,https://epg.pw/api/epg.xml?channel_id=464902,https://epg.pw/api/epg.xml?channel_id=470898"
+#EXTM3U url-tvg="http://epgontvhdbr.com/,https://epgshare01.online/epgshare01/epg_ripper_BR2.xml.gz,https://althierestm.github.io/Lista-RadarTV/epg.xml,https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/EPG/epg-rytec-pt.xml.xz,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/globo-internacional.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/epg.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/vivoplay.xml,https://epg.pw/api/epg.xml?channel_id=464902,https://epg.pw/api/epg.xml?channel_id=470898,https://epg.pw/api/epg.xml?channel_id=465038"
 
 
 #EXTINF:-1 group-title="CANAIS: CANAL DO USUÁRIO" tvg-logo="https://pictureurl.com/api/storage/file?key=u%2Fanon%2F86be19ca-82ee-4fc3-b228-20f0f6eea90f-1792680280272.png",CANAL DO USUÁRIO
@@ -83,7 +83,9 @@ http://138.204.86.4:8080/DISCOVERY_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS: INFANTIS" tvg-logo="https://img.faz-o-eli.online/cartoonnetwork.png",LA • Cartoon Network
 http://167.249.23.102:8000/play/CartoonNetwork/index.m3u8
 #EXTINF:-1 group-title="CANAIS: INFANTIS" tvg-logo="https://pictureurl.com/api/storage/file?key=u%2Fanon%2F0d7a270d-2e89-4c5e-89f5-77900f57cbe8-ytv_logo_2014_2024_v2_by_alexpasley_dj5wl1c-fullview.png",YTV HD
-http://eb4b8dcf.kablakaka.ru/iptv/3W9W7XEYC22NBD/6441/index.m3u8
+
+#EXTINF:-1 group-title="CANAIS: INFANTIS" tvg-logo="https://img.faz-o-eli.online/nickelodeon.png",Nicktoons HD
+http://41.205.93.154/NICKTOONS/index.m3u8
 #EXTINF:-1 group-title="CANAIS: INFANTIS" tvg-logo="https://img.faz-o-eli.online/cartoonnetwork.png",Cartoon Network HD
 http://45.162.64.114/CARTOON_NETWORK/index.m3u8
 #EXTINF:-1 group-title="CANAIS: INFANTIS" tvg-logo="https://img.faz-o-eli.online/gloob.png",Gloob HD
