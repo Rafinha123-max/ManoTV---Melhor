@@ -20,7 +20,7 @@ http://64.31.23.207:80/59471019/60849037/324399.m3u8
 #EXTINF:-1 group-title="CANAIS: FILMES E SÉRIES" tvg-logo="https://img.faz-o-eli.online/space.png",Space HD
 http://138.204.86.4:8080/SPACE_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS: NOVELAS" group-title="CANAIS: GLOBOSAT" tvg-logo="https://img.faz-o-eli.online/viva.png",VIVA HD
-http://79.127.238.228:14455/
+https://live-01.edge-oi-mpi-mg.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1vaS1tcGktbWcudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzkzMTM5OTMzLCJpYXQiOjE3OTMxMTgzMzMsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiMzdhYTQzYjEtMTMwNS00MDJhLWE0ZTItZDFhODI5M2ExMTU1IiwicGF0aCI6Ii9saXZlL2YoYk1heD0yMjYyOTc2LGk9Mikvdml2YTI0aGEvcGxheWxpc3QubTN1OCJ9.Maa4oC1ZD6cZg4b5gIGrYN_Fyxb93jwQk9djba_sFKa3TXZ8l2KNupSRBWrXWDcjMmKefFhseaSEqK3Xwkpuxb3vUUBU2HVQfMZ7oyEwAUQCWNYv9rk3A9GVRtOT0VBfNhGxh8223Bw6i8CRVzBcAAJs6nMGAeOf7vIpDXFMAEmaP5trUo2TrQow9z2MY07kyMd6duP_VKVR2WsG6HGOevgKtxZAB37OH2-6RuBWU80sYjaA67dQKFNDufsPHY_ISECw0M9g9noeqND7kcoki3RFoDd4-I_Vi7nyVX1VCF_G5I1b6QDO46Sv0o_FRjayGFl0jY-KSXj7TQ2sZ_GXww/live/f%28bMax=2262976,i=2%29/viva24ha/playlist.m3u8?custom_asset_key=viva24ha_hls&network_code=95377733&stream_id=e8a358ae-0328-43ef-acf1-55765b4efb69:SCL2
 #EXTINF:-1 group-title="CANAIS: FILMES E SÉRIES" tvg-logo="https://img.faz-o-eli.online/warnerchannel.png",Warner Channel HD
 http://138.204.86.4:8080/WARNER_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS: FILMES E SÉRIES" tvg-logo="https://img.faz-o-eli.online/warnerchannel.png",LA • Warner Channel HD
@@ -31,8 +31,8 @@ https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
 http://138.204.86.4:8080/TNT_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS: GLOBO" tvg-logo="https://img.faz-o-eli.online/globo.png",Globo HD
 http://138.204.86.4:8080/GLOBO_HD/index.m3u8
-#EXTINF:-1 group-title="CANAIS: GLOBO" tvg-logo="https://img.faz-o-eli.online/globo.png",Globo Belo Horizonte
-http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1168940.ts
+#EXTINF:-1 group-title="CANAIS: GLOBO" tvg-logo="https://img.faz-o-eli.online/globo.png",Globo Belo Horizonte HD
+https://live-02.edge-oi-mpi-mg.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDIuZWRnZS1vaS1tcGktbWcudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzkzMTM5NTY1LCJpYXQiOjE3OTMxMTc5NjUsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiMzdhYTQzYjEtMTMwNS00MDJhLWE0ZTItZDFhODI5M2ExMTU1IiwicGF0aCI6Ii9saXZlL2YoYk1heD0zNjMyMDAwLGk9MikvZ2xvYm8tYmgvcGxheWxpc3QubTN1OCJ9.N5C5Ii1sAn2pb142-YAFfRMPMu-p9G8oq_VWsx7Oj9Nu8xUrH3oqAAkWo3mRAQh_bQwJKlnZcIt6xfoIk_LEQdBCCWwf_A1rVWtl8SApWsX1YMM6Aog9frajBw8HjjUs96YTTTXJnZ7SE7FqCdMca2ZgPayAvGmjyFai-E7fQ5v9JcG0RBWRiB5jjUGGEkjAprVktZNzPZW84crdpqU2q6WAFFEmhr2fDxXDTV0eFIr38Irji_p97BJhI34qmyiJ8QLXAsNPwRUv-UkbLLSweJI5uYVvAra8ozdVfSyhKIs_mt8h6JPfzTBWChskZ75SFyDE2O-kOF0ZAhIfubqSCA/live/f%28bMax=3632000,i=2%29/globo-bh/playlist.m3u8?originpath=/linear/hls/pa/event/7hMHe0jvSlWc-HfASzkVlA/stream/cbd014e2-eb0c-4961-9dbd-1fff6dfbc4c8:SCL2/master.m3u8
 #EXTINF:-1 group-title="CANAIS: ABERTOS" tvg-logo="https://pictureurl.com/api/storage/file?key=u%2Fanon%2F72404d2d-5e1e-4256-a952-3865cfaef285-ABC-2021-LOGO.png",ABC National Feed HD
 http://eb4b8dcf.kablakaka.ru/iptv/9A4A5D6WCXS4XF/1087/index.m3u8
 #EXTINF:-1 group-title="CANAIS: ESPORTES" tvg-logo="http://1.bp.blogspot.com/-w_-8bx1hzcI/XmUJ5N5F7VI/AAAAAAAACVA/xJhpJpOiCMEJfcx7tucUtNqdLs53IFp-QCK4BGAYYCw/s400/BAND%2BSPORT.png",Band Sports HD
@@ -53,10 +53,9 @@ http://64.31.23.207:80/59471019/60849037/3460273.m3u8
 #EXTINF:-1 group-title="CANAIS: ESPORTES" tvg-logo="https://img.faz-o-eli.online/xsports.png",Ideal TV HD
 http://170.83.16.50:80/X_SPORTS/index.m3u8
 #EXTINF:-1 group-title="CANAIS: SPORTV" group-title="CANAIS: GLOBOSAT" tvg-logo="https://img.faz-o-eli.online/sportv.png",SporTV HD
-http://64.31.23.207:80/59471019/60849037/3460202.m3u8
+https://live-02.edge-oi-mpi-mg.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDIuZWRnZS1vaS1tcGktbWcudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzkzMTQwMTQ3LCJpYXQiOjE3OTMxMTg1NDcsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiMzdhYTQzYjEtMTMwNS00MDJhLWE0ZTItZDFhODI5M2ExMTU1IiwicGF0aCI6Ii9saXZlL2YoYk1heD0zNjMyMDAwLGk9Mikvc3BvMTI0aGEvcGxheWxpc3QubTN1OCJ9.qJl_tMFrtk0sWh_CL_RwbdttXCRiku6dS-XtDk0bteZscTdCdsThCyuehmwoPXWORwlOQXCQmmPNQpXkT3T_kS9Jv_khXeBjk1D2_WFurEIYT5Q_iDEiYnXZWpMr48n9ScuaLXdRE3EO7WY6acLQDdV4GNO6eQ_NysFT081WH68wuF4AKmq8uc9x9qom-EC8aPlFX67yw_P4HebzyQzu-iww8JKwqYqf2-nz5O0UV-UGoAzRmWs2APMYPTbPIPWWKy85kVsFB2HGt2yMcCGjAco7c7XGOWjVSHK_UXxjOpGOmX8xB6zgh3pQ4Anj8-tU46e32mubLHY6cTGuVTAXyw/live/f%28bMax=3632000,i=2%29/spo124ha/playlist.m3u8?custom_asset_key=spo124ha_hls_v1&network_code=95377733&stream_id=6bfb422f-c020-4c94-b423-bd7802465241:SCL2
 #EXTINF:-1 group-title="CANAIS: SPORTV" group-title="CANAIS: GLOBOSAT" tvg-logo="https://img.faz-o-eli.online/sportv2.png",SporTV 2 HD
-#EXTVLCOPT:network-caching=120000
-http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/30123.m3u8
+https://live-01.edge-oi-mpi-mg.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1vaS1tcGktbWcudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzkzMTQwMjk1LCJpYXQiOjE3OTMxMTg2OTUsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiMzdhYTQzYjEtMTMwNS00MDJhLWE0ZTItZDFhODI5M2ExMTU1IiwicGF0aCI6Ii9saXZlL2YoYk1heD0yMjYyOTc2LGk9Mikvc3BvMjI0aGEvcGxheWxpc3QubTN1OCJ9.e0baOeuupL8bsl5TZL0xgt3GNMLbqrGUdVjHKyFC44t5jvFJsTA7G5Sj2fbpXJ-_PNAhaRsUm1hOzN2yyAonTIeBdWxnTlo-iakdKd2wzhMI-5yoV7fPpUsbbziMl_BsW-JtaDE5aTC8BDMvSOKfJW4x0p_Krvos1DNi_qr8-YNBsvXfPN8GvE8x7LoMV6QuM7zEclP__yunZfY7-i5m_hp--9AnU0xmEcdAq9Hq9NSITXb0vH2T0hAx1YvB5w1UwwedxYr-SCF9jjSLqXFJwGC-GbKXemSwNgP4pLvpBCQYBGQSLgeD6gARM0y0MEQP_WjDkjd2VxBbXi0ei6VEFw/live/f%28bMax=2262976,i=2%29/spo224ha/playlist.m3u8?custom_asset_key=spo224ha_hls_v1&network_code=95377733&stream_id=e7b86e68-2997-4f00-b91a-99695f668ce8:SCL2
 #EXTINF:-1 group-title="CANAIS: SPORTV" group-title="CANAIS: GLOBOSAT" tvg-logo="https://img.faz-o-eli.online/sportv3.png",SporTV 3 HD
 http://64.31.23.207:80/59471019/60849037/3460206.m3u8
 #EXTINF:-1 tvg-logo="https://pictureurl.com/api/storage/file?key=u%2Fanon%2Fe3ae6ca2-fb4d-4e9c-9583-2c48900ab19e-images__4___1_.png" group-title="CANAIS: SPORTV",SporTV 4K
