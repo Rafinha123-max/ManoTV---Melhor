@@ -12,8 +12,7 @@ http://138.204.86.4:8080/HBO2/index.m3u8
 #EXTINF:-1 group-title="CANAIS: HBO" tvg-logo="https://img.faz-o-eli.online/hbofamily.png",HBO Family HD
 http://138.204.86.4:8080/HBO_FAMILY/index.m3u8
 #EXTINF:-1 group-title="CANAIS: MÚSICA" group-title="CANAIS: GLOBOSAT" tvg-logo="https://img.faz-o-eli.online/bis.png",BIS HD
-#EXTVLCOPT:network-caching=5000
-http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/107985.ts
+https://live-cm-ah-07-40.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtY20tYWgtMDctNDAudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzkzMTM5NzYzLCJpYXQiOjE3OTMxMTgxNjMsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiMzdhYTQzYjEtMTMwNS00MDJhLWE0ZTItZDFhODI5M2ExMTU1IiwicGF0aCI6Ii9saXZlL2YoYk1heD0zNjMyMDAwLGk9MikvYmlzMjRoYS9wbGF5bGlzdC5tM3U4In0.KpNOx3AbSe-0Cj_kDAa0xv3VlA5RVoZ5WDoPU818GHlf3X83rZf3BDFhYK7JVZ4pyKVceaAq0UdS1DgRIkRDucVeoytRUKPh8Fe1YaS3idtNpIHxVX-WGxyq3u5lExWZHIfeT08lG6lqza7u20JyR2IGrknFLWnUy0KUJK86vVrlK5Fdlc1Zk-R-5BA7nidonQphKy9xLPI-NnoDmeZESMNDc-K7Q8ZiCFTS5uCH4a5fS5gHgJ7BVDdTUAyNG2f8Wz5tw79XblIL3PwTTzeZpLuUAOtc6ATtAaC8yv96_aLhaNrklW46dDY_BJxTSAC2tpWSmhbDWULHlIaKpjNOOg/live/f%28bMax=3632000,i=2%29/bis24ha/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS: FILMES E SÉRIES" tvg-logo="https://img.faz-o-eli.online/universaltv.png",Universal TV HD
 #EXTVLCOPT:network-caching=5000
 http://64.31.23.207:80/59471019/60849037/324399.m3u8
