@@ -12,14 +12,11 @@ http://138.204.86.4:8080/HBO2/index.m3u8
 #EXTINF:-1 group-title="CANAIS: HBO" tvg-logo="https://img.faz-o-eli.online/hbofamily.png",HBO Family HD
 http://138.204.86.4:8080/HBO_FAMILY/index.m3u8
 #EXTINF:-1 group-title="CANAIS: MÚSICA" group-title="CANAIS: GLOBOSAT" tvg-logo="https://img.faz-o-eli.online/bis.png",BIS HD
-https://live-cm-ah-07-40.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtY20tYWgtMDctNDAudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzkzMTM5NzYzLCJpYXQiOjE3OTMxMTgxNjMsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiMzdhYTQzYjEtMTMwNS00MDJhLWE0ZTItZDFhODI5M2ExMTU1IiwicGF0aCI6Ii9saXZlL2YoYk1heD0zNjMyMDAwLGk9MikvYmlzMjRoYS9wbGF5bGlzdC5tM3U4In0.KpNOx3AbSe-0Cj_kDAa0xv3VlA5RVoZ5WDoPU818GHlf3X83rZf3BDFhYK7JVZ4pyKVceaAq0UdS1DgRIkRDucVeoytRUKPh8Fe1YaS3idtNpIHxVX-WGxyq3u5lExWZHIfeT08lG6lqza7u20JyR2IGrknFLWnUy0KUJK86vVrlK5Fdlc1Zk-R-5BA7nidonQphKy9xLPI-NnoDmeZESMNDc-K7Q8ZiCFTS5uCH4a5fS5gHgJ7BVDdTUAyNG2f8Wz5tw79XblIL3PwTTzeZpLuUAOtc6ATtAaC8yv96_aLhaNrklW46dDY_BJxTSAC2tpWSmhbDWULHlIaKpjNOOg/live/f%28bMax=3632000,i=2%29/bis24ha/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS: FILMES E SÉRIES" tvg-logo="https://img.faz-o-eli.online/universaltv.png",Universal TV HD
-#EXTVLCOPT:network-caching=5000
-http://64.31.23.207:80/59471019/60849037/324399.m3u8
+
 #EXTINF:-1 group-title="CANAIS: FILMES E SÉRIES" tvg-logo="https://img.faz-o-eli.online/space.png",Space HD
 http://138.204.86.4:8080/SPACE_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS: NOVELAS" group-title="CANAIS: GLOBOSAT" tvg-logo="https://img.faz-o-eli.online/viva.png",VIVA HD
-https://live-01.edge-oi-mpi-mg.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1vaS1tcGktbWcudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzkzMTM5OTMzLCJpYXQiOjE3OTMxMTgzMzMsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiMzdhYTQzYjEtMTMwNS00MDJhLWE0ZTItZDFhODI5M2ExMTU1IiwicGF0aCI6Ii9saXZlL2YoYk1heD0yMjYyOTc2LGk9Mikvdml2YTI0aGEvcGxheWxpc3QubTN1OCJ9.Maa4oC1ZD6cZg4b5gIGrYN_Fyxb93jwQk9djba_sFKa3TXZ8l2KNupSRBWrXWDcjMmKefFhseaSEqK3Xwkpuxb3vUUBU2HVQfMZ7oyEwAUQCWNYv9rk3A9GVRtOT0VBfNhGxh8223Bw6i8CRVzBcAAJs6nMGAeOf7vIpDXFMAEmaP5trUo2TrQow9z2MY07kyMd6duP_VKVR2WsG6HGOevgKtxZAB37OH2-6RuBWU80sYjaA67dQKFNDufsPHY_ISECw0M9g9noeqND7kcoki3RFoDd4-I_Vi7nyVX1VCF_G5I1b6QDO46Sv0o_FRjayGFl0jY-KSXj7TQ2sZ_GXww/live/f%28bMax=2262976,i=2%29/viva24ha/playlist.m3u8?custom_asset_key=viva24ha_hls&network_code=95377733&stream_id=e8a358ae-0328-43ef-acf1-55765b4efb69:SCL2
+
 #EXTINF:-1 group-title="CANAIS: FILMES E SÉRIES" tvg-logo="https://img.faz-o-eli.online/warnerchannel.png",Warner Channel HD
 http://138.204.86.4:8080/WARNER_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS: FILMES E SÉRIES" tvg-logo="https://img.faz-o-eli.online/warnerchannel.png",LA • Warner Channel HD
@@ -52,13 +49,11 @@ http://64.31.23.207:80/59471019/60849037/3460273.m3u8
 #EXTINF:-1 group-title="CANAIS: ESPORTES" tvg-logo="https://img.faz-o-eli.online/xsports.png",Ideal TV HD
 http://170.83.16.50:80/X_SPORTS/index.m3u8
 #EXTINF:-1 group-title="CANAIS: SPORTV" group-title="CANAIS: GLOBOSAT" tvg-logo="https://img.faz-o-eli.online/sportv.png",SporTV HD
-https://live-02.edge-oi-mpi-mg.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDIuZWRnZS1vaS1tcGktbWcudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzkzMTQwMTQ3LCJpYXQiOjE3OTMxMTg1NDcsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiMzdhYTQzYjEtMTMwNS00MDJhLWE0ZTItZDFhODI5M2ExMTU1IiwicGF0aCI6Ii9saXZlL2YoYk1heD0zNjMyMDAwLGk9Mikvc3BvMTI0aGEvcGxheWxpc3QubTN1OCJ9.qJl_tMFrtk0sWh_CL_RwbdttXCRiku6dS-XtDk0bteZscTdCdsThCyuehmwoPXWORwlOQXCQmmPNQpXkT3T_kS9Jv_khXeBjk1D2_WFurEIYT5Q_iDEiYnXZWpMr48n9ScuaLXdRE3EO7WY6acLQDdV4GNO6eQ_NysFT081WH68wuF4AKmq8uc9x9qom-EC8aPlFX67yw_P4HebzyQzu-iww8JKwqYqf2-nz5O0UV-UGoAzRmWs2APMYPTbPIPWWKy85kVsFB2HGt2yMcCGjAco7c7XGOWjVSHK_UXxjOpGOmX8xB6zgh3pQ4Anj8-tU46e32mubLHY6cTGuVTAXyw/live/f%28bMax=3632000,i=2%29/spo124ha/playlist.m3u8?custom_asset_key=spo124ha_hls_v1&network_code=95377733&stream_id=6bfb422f-c020-4c94-b423-bd7802465241:SCL2
+http://64.31.23.207:80/59471019/60849037/3460200.m3u8
 #EXTINF:-1 group-title="CANAIS: SPORTV" group-title="CANAIS: GLOBOSAT" tvg-logo="https://img.faz-o-eli.online/sportv2.png",SporTV 2 HD
-https://live-01.edge-oi-mpi-mg.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1vaS1tcGktbWcudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzkzMTQwMjk1LCJpYXQiOjE3OTMxMTg2OTUsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiMzdhYTQzYjEtMTMwNS00MDJhLWE0ZTItZDFhODI5M2ExMTU1IiwicGF0aCI6Ii9saXZlL2YoYk1heD0yMjYyOTc2LGk9Mikvc3BvMjI0aGEvcGxheWxpc3QubTN1OCJ9.e0baOeuupL8bsl5TZL0xgt3GNMLbqrGUdVjHKyFC44t5jvFJsTA7G5Sj2fbpXJ-_PNAhaRsUm1hOzN2yyAonTIeBdWxnTlo-iakdKd2wzhMI-5yoV7fPpUsbbziMl_BsW-JtaDE5aTC8BDMvSOKfJW4x0p_Krvos1DNi_qr8-YNBsvXfPN8GvE8x7LoMV6QuM7zEclP__yunZfY7-i5m_hp--9AnU0xmEcdAq9Hq9NSITXb0vH2T0hAx1YvB5w1UwwedxYr-SCF9jjSLqXFJwGC-GbKXemSwNgP4pLvpBCQYBGQSLgeD6gARM0y0MEQP_WjDkjd2VxBbXi0ei6VEFw/live/f%28bMax=2262976,i=2%29/spo224ha/playlist.m3u8?custom_asset_key=spo224ha_hls_v1&network_code=95377733&stream_id=e7b86e68-2997-4f00-b91a-99695f668ce8:SCL2
+http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/30123.m3u8
 #EXTINF:-1 group-title="CANAIS: SPORTV" group-title="CANAIS: GLOBOSAT" tvg-logo="https://img.faz-o-eli.online/sportv3.png",SporTV 3 HD
 http://64.31.23.207:80/59471019/60849037/3460206.m3u8
-#EXTINF:-1 tvg-logo="https://pictureurl.com/api/storage/file?key=u%2Fanon%2Fe3ae6ca2-fb4d-4e9c-9583-2c48900ab19e-images__4___1_.png" group-title="CANAIS: SPORTV",SporTV 4K
-http://45.185.11.126:8000/play/a06f?network-caching=3000000
 #EXTINF:-1 group-title="CANAIS: ESPN" tvg-logo="http://1.bp.blogspot.com/-6WHUXIszhSo/Xk70ThUHf7I/AAAAAAAACEg/SiQTddgay9gyeGmfwBsvm57Fd4glh4wfgCLcBGAsYHQ/s1600/espn.png",ESPN HD
 http://138.204.86.4:8080/ESPN_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS: ESPN" tvg-logo="https://img.faz-o-eli.online/espn2.png",ESPN 2 HD
