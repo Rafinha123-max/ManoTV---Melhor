@@ -80,7 +80,7 @@ http://167.249.23.102:8000/play/CartoonNetwork/index.m3u8
 #EXTINF:-1 group-title="CANAIS: INFANTIS" tvg-logo="https://img.faz-o-eli.online/nickelodeon.png",USA • Nickelodeon HD
 http://198.58.104.90:8989/nickelodeon/index.m3u8?network-caching=3000000
 #EXTINF:-1 group-title="CANAIS: INFANTIS" tvg-logo="https://img.faz-o-eli.online/nickelodeon.png",Nicktoons HD
-http://41.205.93.154/NICKTOONS/index.m3u8?network-caching=3000000
+http://41.205.93.154/NICKTOONS/index.m3u8
 #EXTINF:-1 group-title="CANAIS: INFANTIS" tvg-logo="https://pictureurl.com/api/storage/file?key=u%2Fanon%2F413aa00e-e0d7-46de-a58a-441164d06791-_ytv_logo_by_atomcrosshuy2023_dgn63mf-fullview.png",YTV HD
 http://eb4b8dcf.kablakaka.ru/iptv/3W9W7XEYC22NBD/6441/index.m3u8
 #EXTINF:-1 group-title="CANAIS: INFANTIS" tvg-logo="https://img.faz-o-eli.online/cartoonnetwork.png",Cartoon Network HD
