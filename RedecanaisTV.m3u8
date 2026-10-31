@@ -16,7 +16,7 @@ http://138.204.86.4:8080/HBO_FAMILY/index.m3u8
 #EXTINF:-1 group-title="CANAIS: FILMES E SÉRIES" tvg-logo="https://img.faz-o-eli.online/space.png",Space HD
 http://138.204.86.4:8080/SPACE_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS: NOVELAS" group-title="CANAIS: GLOBOSAT" tvg-logo="https://img.faz-o-eli.online/viva.png",VIVA HD
-
+http://79.127.238.228:14455/
 #EXTINF:-1 group-title="CANAIS: FILMES E SÉRIES" tvg-logo="https://img.faz-o-eli.online/warnerchannel.png",Warner Channel HD
 http://138.204.86.4:8080/WARNER_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS: FILMES E SÉRIES" tvg-logo="https://img.faz-o-eli.online/warnerchannel.png",LA • Warner Channel HD
@@ -80,7 +80,7 @@ http://167.249.23.102:8000/play/CartoonNetwork/index.m3u8
 #EXTINF:-1 group-title="CANAIS: INFANTIS" tvg-logo="https://img.faz-o-eli.online/nickelodeon.png",USA • Nickelodeon HD
 http://198.58.104.90:8989/nickelodeon/index.m3u8?network-caching=3000000
 #EXTINF:-1 group-title="CANAIS: INFANTIS" tvg-logo="https://img.faz-o-eli.online/nickelodeon.png",Nicktoons HD
-http://tvsen7.aynascope.net/nicktoons/index.m3u8
+http://41.205.93.154/NICKTOONS/index.m3u8
 #EXTINF:-1 group-title="CANAIS: INFANTIS" tvg-logo="https://pictureurl.com/api/storage/file?key=u%2Fanon%2F413aa00e-e0d7-46de-a58a-441164d06791-_ytv_logo_by_atomcrosshuy2023_dgn63mf-fullview.png",YTV HD
 http://eb4b8dcf.kablakaka.ru/iptv/3W9W7XEYC22NBD/6441/index.m3u8
 #EXTINF:-1 group-title="CANAIS: INFANTIS" tvg-logo="https://img.faz-o-eli.online/cartoonnetwork.png",Cartoon Network HD
@@ -99,28 +99,26 @@ https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS: PREMIERE" tvg-logo="https://img.faz-o-eli.online/premiere.png",Premiere Clubes HD
 http://79.127.238.228:14157/PremiereClubes
 #EXTINF:-1 group-title="CANAIS: PREMIERE" tvg-logo="https://img.faz-o-eli.online/premiere.png",Premiere 2 HD
-http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/81582.m3u8
+
 #EXTINF:-1 group-title="CANAIS: PREMIERE" tvg-logo="https://img.faz-o-eli.online/premiere.png",Premiere 3 HD
-http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/81583.m3u8
+
 #EXTINF:-1 group-title="CANAIS: PREMIERE" tvg-logo="https://img.faz-o-eli.online/premiere.png",Premiere 4 HD
-http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/81616.m3u8
+
 #EXTINF:-1 group-title="CANAIS: PREMIERE" tvg-logo="https://img.faz-o-eli.online/premiere.png",Premiere 5 HD
-http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/82751.m3u8
+
 #EXTINF:-1 group-title="CANAIS: PREMIERE" tvg-logo="https://img.faz-o-eli.online/premiere.png",Premiere 6 HD
-http://64.31.23.207:80/59471019/60849037/3460224.m3u8
+
 #EXTINF:-1 group-title="CANAIS: PREMIERE" tvg-logo="https://img.faz-o-eli.online/premiere.png",Premiere 7 HD
-http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/108314.ts
+
 #EXTINF:-1 group-title="CANAIS: PREMIERE" tvg-logo="https://img.faz-o-eli.online/premiere.png",Premiere 8 HD
-http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/30063.m3u8
+
 #EXTINF:-1 group-title="CANAIS: FILMES E SÉRIES" tvg-logo="http://2.bp.blogspot.com/-nBtQ5UkiBI4/XmQcIAhLVYI/AAAAAAAACSk/posGzR9eqD4zllrPY3vGIk6wsFYBJtlRQCK4BGAYYCw/s400/AXN.png",AXN HD
 http://138.204.86.4:8080/AXN_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS: NOTÍCIAS" group-title="CANAIS: GLOBOSAT" tvg-logo="https://img.faz-o-eli.online/globonews.png",Globo News HD
 http://79.127.238.228:14093/
 #EXTINF:-1 group-title="CANAIS: VARIEDADES" group-title="CANAIS: GLOBOSAT" tvg-logo="http://3.bp.blogspot.com/-iCbjYIDrwhE/XmP_eN3d_iI/AAAAAAAACQI/gVXF4j0G4Dwz8ZDiKaI8Qgth5DSUrcscgCK4BGAYYCw/s400/GNT.png",GNT HD
-#EXTVLCOPT:network-caching=5000
 http://79.127.238.228:14402
 #EXTINF:-1 group-title="CANAIS: MÚSICA" group-title="CANAIS: GLOBOSAT" tvg-logo="http://2.bp.blogspot.com/-YLvYyrLM0Tc/XmQENo4hcuI/AAAAAAAACQs/jKWMWXYMuvIhu7iXvLJCm-9BEONKMcqxwCK4BGAYYCw/s400/MULTICHO.png",Multishow HD
-#EXTVLCOPT:network-caching=5000
 http://64.31.23.207:80/59471019/60849037/518580.m3u8
 #EXTINF:-1 group-title="CANAIS: REDETV" tvg-logo="http://1.bp.blogspot.com/-HUc16HfletI/Xk70fFB40uI/AAAAAAAACGg/dBpqILiwhXEA3Fc8oQo36AIbTkKmkJZewCLcBGAsYHQ/s1600/redetv.png",RedeTV! HD
 http://138.204.86.4:8080/REDE_TV_HD/index.m3u8
