@@ -83,7 +83,7 @@ http://41.205.93.154/NICKTOONS/index.m3u8
 #EXTINF:-1 group-title="CANAIS: INFANTIS" tvg-logo="https://pictureurl.com/api/storage/file?key=u%2Fanon%2F413aa00e-e0d7-46de-a58a-441164d06791-_ytv_logo_by_atomcrosshuy2023_dgn63mf-fullview.png",YTV HD
 http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/6441/index.m3u8
 #EXTINF:-1 group-title="CANAIS: INFANTIS" tvg-logo="https://img.faz-o-eli.online/cartoonnetwork.png",Cartoon Network HD
-http://45.162.64.114/CARTOON_NETWORK/index.m3u8
+http://138.204.86.4:8080/CARTOON_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS: INFANTIS" tvg-logo="https://img.faz-o-eli.online/gloob.png",Gloob HD
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8888.ts
 #EXTINF:-1 group-title="CANAIS: INFANTIS" tvg-logo="https://img.faz-o-eli.online/discoverykids.png",Discovery Kids HD
