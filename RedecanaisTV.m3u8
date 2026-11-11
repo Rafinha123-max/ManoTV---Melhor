@@ -127,8 +127,10 @@ http://138.204.86.4:8080/CINEMAX/index.m3u8
 #EXTINF:-1 group-title="CANAIS: TELECINE" tvg-logo="https://img.faz-o-eli.online/telecinepremium.png",Telecine Premium HD
 http://governosptx.org:80/3llohwk4g9/kwf099q30o/24537.ts?network-caching=3000000
 #EXTINF:-1 group-title="CANAIS: TELECINE" tvg-logo="https://img.faz-o-eli.online/telecinepipoca.png",Telecine Pipoca HD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/24536.ts?network-caching=3000000
+#EXTINF:-1 group-title="CANAIS: TELECINE" tvg-logo="https://img.faz-o-eli.online/telecinefun.png",Telecine Fun HD
 http://governosptx.org:80/3llohwk4g9/kwf099q30o/24535.ts?network-caching=3000000
 #EXTINF:-1 group-title="CANAIS: ABERTOS" tvg-logo="https://img.faz-o-eli.online/terraviva.png",Terra Viva
 http://138.204.86.4:8080/TERRA_VIVA_HD/index.m3u8
-#EXTINF:-1 group-title="CANAIS: ABERTOS" tvg-logo="https://img.faz-o-eli.online/terraviva.png",Terra Viva
+#EXTINF:-1 group-title="CANAIS: ABERTOS" tvg-logo="https://img.faz-o-eli.online/fishtv.png",Fish TV
 http://138.204.86.4:8080/FISH_TV_HD/index.m3u8
