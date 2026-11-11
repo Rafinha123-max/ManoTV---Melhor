@@ -96,3 +96,39 @@ http://governosptx.org:80/3llohwk4g9/kwf099q30o/69031.ts?network-caching=3000000
 http://governosptx.org:80/3llohwk4g9/kwf099q30o/108297.ts?network-caching=3000000
 #EXTINF:-1 group-title="CANAIS: FILMES E SÉRIES" tvg-logo="https://img.faz-o-eli.online/megapix.png",MEGAPIX HD
 http://governosptx.org:80/3llohwk4g9/kwf099q30o/8962.ts?network-caching=3000000
+#EXTINF:-1 group-title="CANAIS: DISCOVERY" tvg-logo="https://img.faz-o-eli.online/tlc.png",TLC HD
+http://138.204.86.4:8080/TLC_HD/index.m3u8
+#EXTINF:-1 group-title="CANAIS: DISCOVERY" tvg-logo="https://img.faz-o-eli.online/discoveryscience.png",Discovery Science HD
+http://138.204.86.4:8080/DISCOVERY_SCIENCE_HD/index.m3u8
+#EXTINF:-1 group-title="CANAIS: DISCOVERY" tvg-logo="https://img.faz-o-eli.online/discoveryturbo.png",Discovery Turbo HD
+http://138.204.86.4:8080/DISCOVERY_TURBO_HD/index.m3u8
+#EXTINF:-1 group-title="CANAIS: DISCOVERY" tvg-logo="https://img.faz-o-eli.online/animalplanet.png",Animal Planet HD
+http://138.204.86.4:8080/ANIMAL_PLANET_HD/index.m3u8
+#EXTINF:-1 group-title="CANAIS: DISCOVERY" tvg-logo="https://img.faz-o-eli.online/id.png",Investigação Discovery HD
+http://138.204.86.4:8080/ID_HD/index.m3u8
+#EXTINF:-1 group-title="CANAIS: VARIEDADES" tvg-logo="https://img.faz-o-eli.online/ae.png",A&E HD
+http://138.204.86.4:8080/AE_HD/index.m3u8
+#EXTINF:-1 group-title="CANAIS: VARIEDADES" tvg-logo="https://img.faz-o-eli.online/history.png",History HD
+http://138.204.86.4:8080/HISTORY_HD/index.m3u8
+#EXTINF:-1 group-title="CANAIS: ESPN" tvg-logo="https://img.faz-o-eli.online/espn.png",ESPN HD
+http://138.204.86.4:8080/ESPN_HD/index.m3u8
+#EXTINF:-1 group-title="CANAIS: ESPN" tvg-logo="https://img.faz-o-eli.online/espn2.png",ESPN 2 HD
+http://138.204.86.4:8080/ESPN2_HD/index.m3u8
+#EXTINF:-1 group-title="CANAIS: ESPN" tvg-logo="https://img.faz-o-eli.online/espn3.png",ESPN 3 HD
+http://138.204.86.4:8080/ESPN3_HD/index.m3u8
+#EXTINF:-1 group-title="CANAIS: HBO" tvg-logo="https://img.faz-o-eli.online/hbo.png",HBO HD
+http://138.204.86.4:8080/HBO/index.m3u8
+#EXTINF:-1 group-title="CANAIS: HBO" tvg-logo="https://img.faz-o-eli.online/hbo.png",HBO 2 HD
+http://138.204.86.4:8080/HBO2/index.m3u8
+#EXTINF:-1 group-title="CANAIS: HBO" tvg-logo="https://img.faz-o-eli.online/hbo.png",HBO Family HD
+http://138.204.86.4:8080/HBO_FAMILY/index.m3u8
+#EXTINF:-1 group-title="CANAIS: FILMES E SÉRIES" tvg-logo="https://img.faz-o-eli.online/cinemax.png",Cinemax HD
+http://138.204.86.4:8080/CINEMAX/index.m3u8
+#EXTINF:-1 group-title="CANAIS: TELECINE" tvg-logo="https://img.faz-o-eli.online/telecinepremium.png",Telecine Premium HD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/24537.ts?network-caching=3000000
+#EXTINF:-1 group-title="CANAIS: TELECINE" tvg-logo="https://img.faz-o-eli.online/telecinepipoca.png",Telecine Pipoca HD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/24535.ts?network-caching=3000000
+#EXTINF:-1 group-title="CANAIS: ABERTOS" tvg-logo="https://img.faz-o-eli.online/terraviva.png",Terra Viva
+http://138.204.86.4:8080/TERRA_VIVA_HD/index.m3u8
+#EXTINF:-1 group-title="CANAIS: ABERTOS" tvg-logo="https://img.faz-o-eli.online/terraviva.png",Terra Viva
+http://138.204.86.4:8080/FISH_TV_HD/index.m3u8
