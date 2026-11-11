@@ -6,7 +6,7 @@ https://videotourl.com/videos/1792785408777-3304e5be-8291-40be-ab26-b9001dd894bf
 
 #EXTINF:-1 group-title="CANAIS: ABERTOS" tvg-logo="https://img.faz-o-eli.online/tvcultura.png",TV Cultura
 http://138.204.86.4:8080/TV_CULTURA_HD/index.m3u8
-#EXTINF:-1 group-title="CANAIS: ABERTOS" tvg-logo="https://kommodo.ai/i/uJJIZBpcz24Hqz9KP7PZ",RIT
+#EXTINF:-1 group-title="CANAIS: ABERTOS" tvg-logo="https://cdn.phototourl.com/member/2026-11-11-e6582be6-1ec5-401b-83c2-49c955fb7e06.png",RIT
 http://138.204.86.4:8080/RIT/index.m3u8
 #EXTINF:-1 group-title="CANAIS: ABERTOS" tvg-logo="https://img.faz-o-eli.online/redevida.png",Rede Vida HD
 http://138.204.86.4:8080/REDE_VIDA_HD/index.m3u8
@@ -22,17 +22,17 @@ http://138.204.86.4:8080/SBT_HD/index.m3u8
 http://138.204.86.4:8080/TV_APARECIDA_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS: ABERTOS" tvg-logo="https://img.faz-o-eli.online/globo.png",Globo HD
 http://138.204.86.4:8080/GLOBO_HD/index.m3u8
-#EXTINF:-1 group-title="CANAIS: ABERTOS" tvg-logo="https://kommodo.ai/i/ZjFTrRZo2dSfCGGpYv9h",Globo Belo Horizonte HD
+#EXTINF:-1 group-title="CANAIS: ABERTOS" tvg-logo="https://img.faz-o-eli.online/globo.png",Globo Belo Horizonte HD
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168938.ts?network-caching=3000000
 #EXTINF:-1 group-title="CANAIS: ABERTOS" tvg-logo="https://img.faz-o-eli.online/band.png",Band HD
 http://138.204.86.4:8080/BAND_HD/index.m3u8
-#EXTINF:-1 group-title="CANAIS: ABERTOS" tvg-logo="https://img.faz-o-eli.online/cnt.png",Rede CNT
+#EXTINF:-1 group-title="CANAIS: ABERTOS" tvg-logo="https://img.faz-o-eli.online/cnt.png",CNT
 http://138.204.86.4:8080/CNT_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS: ABERTOS" tvg-logo="https://img.faz-o-eli.online/redetv.png",RedeTV! HD
 http://138.204.86.4:8080/REDE_TV_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS: ABERTOS" tvg-logo="https://img.faz-o-eli.online/xsports.png",Ideal TV HD
 http://170.83.16.50:80/X_SPORTS/index.m3u8
-#EXTINF:-1 group-title="CANAIS: ABERTOS" tvg-logo="https://kommodo.ai/i/vo9iaBRPzdKeAZJvUpma",Rede Brasil
+#EXTINF:-1 group-title="CANAIS: ABERTOS" tvg-logo="https://cdn.phototourl.com/member/2026-11-11-90f9f68c-3bfe-4ec1-9d73-e1eebc9dd019.png",Rede Brasil
 http://138.204.86.4:8080/REDE_BRASIL_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS: ABERTOS" tvg-logo="https://img.faz-o-eli.online/tvpaieterno.png",TV Pai Eterno
 http://186.219.52.187:80/pai_eterno/index.m3u8
@@ -40,7 +40,7 @@ http://186.219.52.187:80/pai_eterno/index.m3u8
 http://138.204.86.4:8080/RECORD_NEWS_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS: ABERTOS" tvg-logo="https://img.faz-o-eli.online/tvbrasil.png",TV Brasil
 https://tvbrasil-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 group-title="CANAIS: ABERTOS" tvg-logo="https://kommodo.ai/i/toiUsD702B7u8VaCJFs3",Canal Gov
+#EXTINF:-1 group-title="CANAIS: ABERTOS" tvg-logo="https://cdn.phototourl.com/member/2026-11-11-847eca0b-a227-45ce-8eaf-6aa434a8036e.png",Canal Gov
 https://canalgov-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 group-title="CANAIS: ABERTOS" tvg-logo="https://img.faz-o-eli.online/novotempo.png",Novo Tempo
 http://186.219.52.187:80/novo_tempo/index.m3u8
@@ -64,7 +64,7 @@ http://governosptx.org:80/3llohwk4g9/kwf099q30o/8974.ts
 http://79.127.238.228:14455/
 #EXTINF:-1 group-title="CANAIS: VARIEDADES" tvg-logo="https://img.faz-o-eli.online/modoviagem.png",Modo Viagem HD
 http://governosptx.org:80/3llohwk4g9/kwf099q30o/8883.ts?network-caching=3000000
-#EXTINF:-1 group-title="CANAIS: INFANTIS" tvg-logo="https://kommodo.ai/i/OTm7JClV71v4eWMsDj7e",Discovery Kids HD
+#EXTINF:-1 group-title="CANAIS: INFANTIS" tvg-logo="https://cdn.phototourl.com/member/2026-11-11-4ce4a4ec-b50a-4b42-adb7-a8a6d524851f.png",Discovery Kids HD
 http://138.204.86.4:8080/DISCOVERY_KIDS_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS: INFANTIS" tvg-logo="https://img.faz-o-eli.online/nickelodeon.png",Nickelodeon HD
 https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
@@ -86,7 +86,7 @@ http://138.204.86.4:8080/AXN_HD/index.m3u8
 http://138.204.86.4:8080/WARNER_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS: FILMES E SÉRIES" tvg-logo="https://img.faz-o-eli.online/tnt.png",TNT HD
 http://138.204.86.4:8080/TNT_HD/index.m3u8
-#EXTINF:-1 group-title="CANAIS: PREMIERE" tvg-logo="https://img.faz-o-eli.online/premiere.png",Premiere Clubes
+#EXTINF:-1 group-title="CANAIS: PREMIERE" tvg-logo="https://img.faz-o-eli.online/premiere.png",Premiere Clubes HD
 http://79.127.238.228:14157/PremiereClubes?network-caching=3000000
 #EXTINF:-1 group-title="CANAIS: PREMIERE" tvg-logo="https://img.faz-o-eli.online/premiere.png",Premiere 2 HD
 http://governosptx.org:80/3llohwk4g9/kwf099q30o/69028.ts?network-caching=3000000
@@ -94,3 +94,5 @@ http://governosptx.org:80/3llohwk4g9/kwf099q30o/69028.ts?network-caching=3000000
 http://governosptx.org:80/3llohwk4g9/kwf099q30o/69031.ts?network-caching=3000000
 #EXTINF:-1 group-title="CANAIS: PREMIERE" tvg-logo="https://img.faz-o-eli.online/premiere.png",Premiere 4 HD
 http://governosptx.org:80/3llohwk4g9/kwf099q30o/108297.ts?network-caching=3000000
+#EXTINF:-1 group-title="CANAIS: FILMES E SÉRIES" tvg-logo="https://img.faz-o-eli.online/megapix.png",MEGAPIX HD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/8962.ts?network-caching=3000000
