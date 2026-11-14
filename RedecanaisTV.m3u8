@@ -23,7 +23,7 @@ http://138.204.86.4:8080/TV_APARECIDA_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS: ABERTOS" tvg-logo="https://img.faz-o-eli.online/globo.png",Globo HD
 http://138.204.86.4:8080/GLOBO_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS: ABERTOS" tvg-logo="https://img.faz-o-eli.online/globo.png",Globo Belo Horizonte HD
-http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168938.ts?network-caching=3000000
+https://live-01.edge-oi-mpi-mg.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1vaS1tcGktbWcudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzk0Njc4NjU4LCJpYXQiOjE3OTQ2NTcwNTgsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiMzdhYTQzYjEtMTMwNS00MDJhLWE0ZTItZDFhODI5M2ExMTU1IiwicGF0aCI6Ii9saXZlL2YoYk1heD0zNjMyMDAwLGk9MikvZ2xvYm8tYmgvcGxheWxpc3QubTN1OCJ9.qCHhpANYqcNNpBUXwENcCxnWxhdBuFPmHYhL0FQDBsjl6ndCa6ye8ahlD4x2DCyNGoLieP4iX1nFaNt9ByyzdK_XKJJnzlHWCZFeLFZoyhU4RFrO8-MlrLbIW45z-JsHytv0lGgChUcZDu09NmsvwG4xjbrjEnu_TWedwFjgFuelLrA3mQZUk1zbFynYbnU4bb1nVqnXNOkCN-NgPLhuXqsRP2HgVYHCAFB9onvpO8DMY5ymlY-527f6p0-BbwHWDN8MOhoh37fd8sX_yoR45-ykPC8km5O4FHdP5_GiMewz3aIyDveDpmRj9djCVi9rqlU4odr1DQt9l8PuxLsTuw/live/f(bMax=3632000,i=2)/globo-bh/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS: ABERTOS" tvg-logo="https://img.faz-o-eli.online/band.png",Band HD
 http://138.204.86.4:8080/BAND_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS: ABERTOS" tvg-logo="https://img.faz-o-eli.online/cnt.png",CNT
